@@ -1,0 +1,48 @@
+{
+ "source": "Model summary of the SIMCA 14.1 project (two screenshots in this folder)",
+ "software": "SIMCA 14.1 (32-bit)",
+ "model_date": "2026-05-07",
+ "observations": 58,
+ "X_variables": 1843,
+ "Y_dummy_variables": 4,
+ "models": {
+  "M1 PCA-X": {
+   "A": 4,
+   "R2X_cum": 0.996,
+   "Q2_cum": 0.995
+  },
+  "M2 PLS-DA": {
+   "A": 6,
+   "R2X_cum": 0.999,
+   "R2Y_cum": 0.903,
+   "Q2_cum": 0.878
+  },
+  "M3 OPLS-DA": {
+   "components": "3+5+0",
+   "predictive": 3,
+   "orthogonal": 5,
+   "R2X_cum": 1,
+   "R2X_predictive": 0.539,
+   "R2X_orthogonal": 0.461,
+   "R2Y_cum": 0.964,
+   "Q2_cum": 0.942,
+   "R2X_P1": 0.42,
+   "R2X_P2": 0.109,
+   "R2X_P3": 0.0102
+  }
+ },
+ "permutation_test": {
+  "permutations": 200,
+  "components": 3,
+  "R2_intercept": 0.109,
+  "Q2_intercept": -0.436,
+  "note": "intercepts as stated in the R1 manuscript; the screenshot shows the plot without the numbers"
+ },
+ "component_selection": "Autofit",
+ "scaling": "unit-variance (UV)",
+ "spectral_range_cm-1": [
+  3954.0,
+  11544.7
+ ],
+ "cross_validation": "software default (seven groups)"
+}

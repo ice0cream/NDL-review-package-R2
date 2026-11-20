@@ -1,0 +1,907 @@
+{
+  "selection": {
+    "Number": 12,
+    "Pathlength": "MSC",
+    "Spectra": "FD",
+    "Smoothing": "SG",
+    "Base_model": "RF",
+    "Fusion_type": "Equal_average",
+    "error": "",
+    "RMSE": 3.8687158211591552,
+    "R2": 0.9475638723255463,
+    "MAE": 2.3558085416666668,
+    "Bias": 0.032044652777779375,
+    "RPD": 4.397661198819449,
+    "Repeat": 7,
+    "Outer_fold": 3,
+    "Selection_scope": "inner_grouped_complete_stack_CV"
+  },
+  "predictions": [
+    {
+      "sample_state_id": "F2;S1",
+      "group_id": "F2",
+      "adulteration_percent": 5.0,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 5.0,
+      "Predicted": 6.195674999999998,
+      "Residual": 1.1956749999999978
+    },
+    {
+      "sample_state_id": "F2;S2",
+      "group_id": "F2",
+      "adulteration_percent": 14.592,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 14.592,
+      "Predicted": 14.653949999999998,
+      "Residual": 0.06194999999999773
+    },
+    {
+      "sample_state_id": "F2;S3",
+      "group_id": "F2",
+      "adulteration_percent": 29.926,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 29.926,
+      "Predicted": 30.308184999999995,
+      "Residual": 0.3821849999999962
+    },
+    {
+      "sample_state_id": "F2;S4",
+      "group_id": "F2",
+      "adulteration_percent": 49.933,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 49.933,
+      "Predicted": 49.728709999999985,
+      "Residual": -0.20429000000001452
+    },
+    {
+      "sample_state_id": "F10;S1",
+      "group_id": "F10",
+      "adulteration_percent": 5.014,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 5.014,
+      "Predicted": 5.470730000000002,
+      "Residual": 0.4567300000000021
+    },
+    {
+      "sample_state_id": "F10;S2",
+      "group_id": "F10",
+      "adulteration_percent": 14.836,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 14.836,
+      "Predicted": 11.446455,
+      "Residual": -3.389545
+    },
+    {
+      "sample_state_id": "F10;S3",
+      "group_id": "F10",
+      "adulteration_percent": 29.835,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 29.835,
+      "Predicted": 28.592975000000003,
+      "Residual": -1.2420249999999982
+    },
+    {
+      "sample_state_id": "F10;S4",
+      "group_id": "F10",
+      "adulteration_percent": 50.159,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 50.159,
+      "Predicted": 49.897445,
+      "Residual": -0.2615550000000013
+    },
+    {
+      "sample_state_id": "F11;S1",
+      "group_id": "F11",
+      "adulteration_percent": 4.709,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 4.709,
+      "Predicted": 6.049189999999999,
+      "Residual": 1.3401899999999998
+    },
+    {
+      "sample_state_id": "F11;S2",
+      "group_id": "F11",
+      "adulteration_percent": 15.388,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 15.388,
+      "Predicted": 12.873439999999993,
+      "Residual": -2.5145600000000066
+    },
+    {
+      "sample_state_id": "F11;S3",
+      "group_id": "F11",
+      "adulteration_percent": 29.007,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 29.007,
+      "Predicted": 22.490544999999997,
+      "Residual": -6.516455000000004
+    },
+    {
+      "sample_state_id": "F11;S4",
+      "group_id": "F11",
+      "adulteration_percent": 49.676,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 49.676,
+      "Predicted": 49.77166499999996,
+      "Residual": 0.09566499999996125
+    },
+    {
+      "sample_state_id": "F13;S1",
+      "group_id": "F13",
+      "adulteration_percent": 5.007,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 5.007,
+      "Predicted": 5.891569999999998,
+      "Residual": 0.8845699999999983
+    },
+    {
+      "sample_state_id": "F13;S2",
+      "group_id": "F13",
+      "adulteration_percent": 15.366,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 15.366,
+      "Predicted": 14.186014999999998,
+      "Residual": -1.179985000000002
+    },
+    {
+      "sample_state_id": "F13;S3",
+      "group_id": "F13",
+      "adulteration_percent": 29.149,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 29.149,
+      "Predicted": 27.979495,
+      "Residual": -1.169505000000001
+    },
+    {
+      "sample_state_id": "F13;S4",
+      "group_id": "F13",
+      "adulteration_percent": 50.269,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 50.269,
+      "Predicted": 49.80592499999998,
+      "Residual": -0.46307500000001767
+    }
+  ],
+  "calibration_diagnostics": [
+    {
+      "sample_state_id": "F1;S1",
+      "group_id": "F1",
+      "adulteration_percent": 4.987,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 4.987,
+      "Predicted": 7.316435000000007,
+      "Residual": 2.3294350000000072
+    },
+    {
+      "sample_state_id": "F1;S2",
+      "group_id": "F1",
+      "adulteration_percent": 15.018,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 15.018,
+      "Predicted": 15.223455000000016,
+      "Residual": 0.20545500000001482
+    },
+    {
+      "sample_state_id": "F1;S3",
+      "group_id": "F1",
+      "adulteration_percent": 30.224,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 30.224,
+      "Predicted": 30.060120000000076,
+      "Residual": -0.1638799999999243
+    },
+    {
+      "sample_state_id": "F1;S4",
+      "group_id": "F1",
+      "adulteration_percent": 49.969,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 49.969,
+      "Predicted": 49.45736499999992,
+      "Residual": -0.5116350000000836
+    },
+    {
+      "sample_state_id": "F3;S1",
+      "group_id": "F3",
+      "adulteration_percent": 5.096,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 5.096,
+      "Predicted": 5.625985000000002,
+      "Residual": 0.5299850000000017
+    },
+    {
+      "sample_state_id": "F3;S2",
+      "group_id": "F3",
+      "adulteration_percent": 15.475,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 15.475,
+      "Predicted": 14.900994999999975,
+      "Residual": -0.5740050000000245
+    },
+    {
+      "sample_state_id": "F3;S3",
+      "group_id": "F3",
+      "adulteration_percent": 29.935,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 29.935,
+      "Predicted": 28.366130000000044,
+      "Residual": -1.5688699999999542
+    },
+    {
+      "sample_state_id": "F3;S4",
+      "group_id": "F3",
+      "adulteration_percent": 50.063,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 50.063,
+      "Predicted": 49.22609500000008,
+      "Residual": -0.8369049999999234
+    },
+    {
+      "sample_state_id": "F4;S1",
+      "group_id": "F4",
+      "adulteration_percent": 4.918,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 4.918,
+      "Predicted": 5.9838249999999915,
+      "Residual": 1.0658249999999914
+    },
+    {
+      "sample_state_id": "F4;S2",
+      "group_id": "F4",
+      "adulteration_percent": 15.778,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 15.778,
+      "Predicted": 14.517604999999973,
+      "Residual": -1.2603950000000275
+    },
+    {
+      "sample_state_id": "F4;S3",
+      "group_id": "F4",
+      "adulteration_percent": 30.11,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 30.11,
+      "Predicted": 28.74583999999995,
+      "Residual": -1.364160000000048
+    },
+    {
+      "sample_state_id": "F4;S4",
+      "group_id": "F4",
+      "adulteration_percent": 50.071,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 50.071,
+      "Predicted": 49.64449499999997,
+      "Residual": -0.4265050000000272
+    },
+    {
+      "sample_state_id": "F5;S1",
+      "group_id": "F5",
+      "adulteration_percent": 5.34,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 5.34,
+      "Predicted": 5.933125000000001,
+      "Residual": 0.5931250000000015
+    },
+    {
+      "sample_state_id": "F5;S2",
+      "group_id": "F5",
+      "adulteration_percent": 15.227,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 15.227,
+      "Predicted": 14.367079999999987,
+      "Residual": -0.8599200000000131
+    },
+    {
+      "sample_state_id": "F5;S3",
+      "group_id": "F5",
+      "adulteration_percent": 30.579,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 30.579,
+      "Predicted": 29.70025999999998,
+      "Residual": -0.8787400000000218
+    },
+    {
+      "sample_state_id": "F5;S4",
+      "group_id": "F5",
+      "adulteration_percent": 50.135,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 50.135,
+      "Predicted": 49.97407000000011,
+      "Residual": -0.16092999999988677
+    },
+    {
+      "sample_state_id": "F6;S1",
+      "group_id": "F6",
+      "adulteration_percent": 5.198,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 5.198,
+      "Predicted": 8.01028500000001,
+      "Residual": 2.81228500000001
+    },
+    {
+      "sample_state_id": "F6;S2",
+      "group_id": "F6",
+      "adulteration_percent": 15.018,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 15.018,
+      "Predicted": 14.830070000000012,
+      "Residual": -0.18792999999998905
+    },
+    {
+      "sample_state_id": "F6;S3",
+      "group_id": "F6",
+      "adulteration_percent": 30.122,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 30.122,
+      "Predicted": 30.503455000000034,
+      "Residual": 0.3814550000000345
+    },
+    {
+      "sample_state_id": "F6;S4",
+      "group_id": "F6",
+      "adulteration_percent": 50.036,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 50.036,
+      "Predicted": 50.01508500000004,
+      "Residual": -0.020914999999959605
+    },
+    {
+      "sample_state_id": "F7;S1",
+      "group_id": "F7",
+      "adulteration_percent": 4.98,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 4.98,
+      "Predicted": 5.364690000000009,
+      "Residual": 0.38469000000000886
+    },
+    {
+      "sample_state_id": "F7;S2",
+      "group_id": "F7",
+      "adulteration_percent": 15.084,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 15.084,
+      "Predicted": 14.554724999999978,
+      "Residual": -0.5292750000000215
+    },
+    {
+      "sample_state_id": "F7;S3",
+      "group_id": "F7",
+      "adulteration_percent": 30.079,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 30.079,
+      "Predicted": 30.19606999999998,
+      "Residual": 0.11706999999998047
+    },
+    {
+      "sample_state_id": "F7;S4",
+      "group_id": "F7",
+      "adulteration_percent": 50.106,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 50.106,
+      "Predicted": 49.95671999999995,
+      "Residual": -0.14928000000005426
+    },
+    {
+      "sample_state_id": "F8;S1",
+      "group_id": "F8",
+      "adulteration_percent": 4.96,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 4.96,
+      "Predicted": 13.451545000000017,
+      "Residual": 8.491545000000016
+    },
+    {
+      "sample_state_id": "F8;S2",
+      "group_id": "F8",
+      "adulteration_percent": 14.625,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 14.625,
+      "Predicted": 14.2191,
+      "Residual": -0.4059000000000008
+    },
+    {
+      "sample_state_id": "F8;S3",
+      "group_id": "F8",
+      "adulteration_percent": 30.209,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 30.209,
+      "Predicted": 29.361544999999943,
+      "Residual": -0.8474550000000569
+    },
+    {
+      "sample_state_id": "F8;S4",
+      "group_id": "F8",
+      "adulteration_percent": 49.793,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 49.793,
+      "Predicted": 49.75602499999988,
+      "Residual": -0.036975000000118996
+    },
+    {
+      "sample_state_id": "F9;S1",
+      "group_id": "F9",
+      "adulteration_percent": 5.055,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 5.055,
+      "Predicted": 5.4724149999999865,
+      "Residual": 0.41741499999998677
+    },
+    {
+      "sample_state_id": "F9;S2",
+      "group_id": "F9",
+      "adulteration_percent": 15.86,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 15.86,
+      "Predicted": 15.413010000000003,
+      "Residual": -0.446989999999996
+    },
+    {
+      "sample_state_id": "F9;S3",
+      "group_id": "F9",
+      "adulteration_percent": 30.165,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 30.165,
+      "Predicted": 29.729849999999974,
+      "Residual": -0.435150000000025
+    },
+    {
+      "sample_state_id": "F9;S4",
+      "group_id": "F9",
+      "adulteration_percent": 50.06,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 50.06,
+      "Predicted": 49.940225000000076,
+      "Residual": -0.11977499999992602
+    },
+    {
+      "sample_state_id": "F12;S1",
+      "group_id": "F12",
+      "adulteration_percent": 5.027,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 5.027,
+      "Predicted": 9.486040000000017,
+      "Residual": 4.459040000000017
+    },
+    {
+      "sample_state_id": "F12;S2",
+      "group_id": "F12",
+      "adulteration_percent": 15.31,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 15.31,
+      "Predicted": 15.038124999999969,
+      "Residual": -0.2718750000000316
+    },
+    {
+      "sample_state_id": "F12;S3",
+      "group_id": "F12",
+      "adulteration_percent": 29.696,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 29.696,
+      "Predicted": 29.487634999999955,
+      "Residual": -0.20836500000004676
+    },
+    {
+      "sample_state_id": "F12;S4",
+      "group_id": "F12",
+      "adulteration_percent": 49.87,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 49.87,
+      "Predicted": 49.797980000000024,
+      "Residual": -0.07201999999997355
+    },
+    {
+      "sample_state_id": "F14;S1",
+      "group_id": "F14",
+      "adulteration_percent": 4.927,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 4.927,
+      "Predicted": 5.178105000000009,
+      "Residual": 0.2511050000000097
+    },
+    {
+      "sample_state_id": "F14;S2",
+      "group_id": "F14",
+      "adulteration_percent": 15.615,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 15.615,
+      "Predicted": 15.720434999999961,
+      "Residual": 0.10543499999996087
+    },
+    {
+      "sample_state_id": "F14;S3",
+      "group_id": "F14",
+      "adulteration_percent": 30.162,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 30.162,
+      "Predicted": 29.713880000000017,
+      "Residual": -0.44811999999998164
+    },
+    {
+      "sample_state_id": "F14;S4",
+      "group_id": "F14",
+      "adulteration_percent": 49.997,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 49.997,
+      "Predicted": 48.090035000000015,
+      "Residual": -1.9069649999999854
+    },
+    {
+      "sample_state_id": "F15;S1",
+      "group_id": "F15",
+      "adulteration_percent": 5.45,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 5.45,
+      "Predicted": 5.815640000000017,
+      "Residual": 0.36564000000001684
+    },
+    {
+      "sample_state_id": "F15;S2",
+      "group_id": "F15",
+      "adulteration_percent": 14.916,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 14.916,
+      "Predicted": 14.882940000000026,
+      "Residual": -0.03305999999997411
+    },
+    {
+      "sample_state_id": "F15;S3",
+      "group_id": "F15",
+      "adulteration_percent": 30.038,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 30.038,
+      "Predicted": 30.21601499999992,
+      "Residual": 0.17801499999992032
+    },
+    {
+      "sample_state_id": "F15;S4",
+      "group_id": "F15",
+      "adulteration_percent": 50.116,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 50.116,
+      "Predicted": 49.874559999999995,
+      "Residual": -0.24144000000000432
+    },
+    {
+      "sample_state_id": "F16;S1",
+      "group_id": "F16",
+      "adulteration_percent": 4.521,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 4.521,
+      "Predicted": 4.908784999999992,
+      "Residual": 0.38778499999999205
+    },
+    {
+      "sample_state_id": "F16;S2",
+      "group_id": "F16",
+      "adulteration_percent": 15.416,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 15.416,
+      "Predicted": 14.069570000000017,
+      "Residual": -1.3464299999999838
+    },
+    {
+      "sample_state_id": "F16;S3",
+      "group_id": "F16",
+      "adulteration_percent": 29.938,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 29.938,
+      "Predicted": 29.327675000000035,
+      "Residual": -0.610324999999964
+    },
+    {
+      "sample_state_id": "F16;S4",
+      "group_id": "F16",
+      "adulteration_percent": 50.29,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 50.29,
+      "Predicted": 50.04398500000008,
+      "Residual": -0.2460149999999217
+    },
+    {
+      "sample_state_id": "F17;S1",
+      "group_id": "F17",
+      "adulteration_percent": 5.128,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 5.128,
+      "Predicted": 5.903275,
+      "Residual": 0.7752749999999997
+    },
+    {
+      "sample_state_id": "F17;S2",
+      "group_id": "F17",
+      "adulteration_percent": 15.199,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 15.199,
+      "Predicted": 13.698810000000021,
+      "Residual": -1.5001899999999786
+    },
+    {
+      "sample_state_id": "F17;S3",
+      "group_id": "F17",
+      "adulteration_percent": 29.969,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 29.969,
+      "Predicted": 29.96238000000003,
+      "Residual": -0.00661999999996965
+    },
+    {
+      "sample_state_id": "F17;S4",
+      "group_id": "F17",
+      "adulteration_percent": 50.049,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 50.049,
+      "Predicted": 49.933000000000085,
+      "Residual": -0.1159999999999144
+    },
+    {
+      "sample_state_id": "F18;S1",
+      "group_id": "F18",
+      "adulteration_percent": 5.452,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 5.452,
+      "Predicted": 6.305269999999997,
+      "Residual": 0.8532699999999966
+    },
+    {
+      "sample_state_id": "F18;S2",
+      "group_id": "F18",
+      "adulteration_percent": 15.303,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 15.303,
+      "Predicted": 15.014585000000006,
+      "Residual": -0.2884149999999952
+    },
+    {
+      "sample_state_id": "F18;S3",
+      "group_id": "F18",
+      "adulteration_percent": 29.646,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 29.646,
+      "Predicted": 30.002489999999984,
+      "Residual": 0.3564899999999831
+    },
+    {
+      "sample_state_id": "F18;S4",
+      "group_id": "F18",
+      "adulteration_percent": 49.949,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 49.949,
+      "Predicted": 49.86895999999999,
+      "Residual": -0.08004000000001099
+    },
+    {
+      "sample_state_id": "F19;S1",
+      "group_id": "F19",
+      "adulteration_percent": 4.933,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 4.933,
+      "Predicted": 5.164194999999995,
+      "Residual": 0.23119499999999515
+    },
+    {
+      "sample_state_id": "F19;S2",
+      "group_id": "F19",
+      "adulteration_percent": 15.572,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 15.572,
+      "Predicted": 13.643989999999999,
+      "Residual": -1.9280100000000004
+    },
+    {
+      "sample_state_id": "F19;S3",
+      "group_id": "F19",
+      "adulteration_percent": 30.212,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 30.212,
+      "Predicted": 29.326500000000063,
+      "Residual": -0.8854999999999364
+    },
+    {
+      "sample_state_id": "F19;S4",
+      "group_id": "F19",
+      "adulteration_percent": 50.004,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 50.004,
+      "Predicted": 49.81346500000004,
+      "Residual": -0.19053499999995438
+    },
+    {
+      "sample_state_id": "F20;S1",
+      "group_id": "F20",
+      "adulteration_percent": 5.055,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 5.055,
+      "Predicted": 6.746414999999996,
+      "Residual": 1.6914149999999966
+    },
+    {
+      "sample_state_id": "F20;S2",
+      "group_id": "F20",
+      "adulteration_percent": 15.061,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 15.061,
+      "Predicted": 14.973395000000012,
+      "Residual": -0.0876049999999875
+    },
+    {
+      "sample_state_id": "F20;S3",
+      "group_id": "F20",
+      "adulteration_percent": 29.462,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 29.462,
+      "Predicted": 29.152970000000085,
+      "Residual": -0.30902999999991465
+    },
+    {
+      "sample_state_id": "F20;S4",
+      "group_id": "F20",
+      "adulteration_percent": 49.652,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 49.652,
+      "Predicted": 49.66872000000002,
+      "Residual": 0.01672000000002072
+    },
+    {
+      "sample_state_id": "F21;S1",
+      "group_id": "F21",
+      "adulteration_percent": 5.423,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 5.423,
+      "Predicted": 5.753075000000001,
+      "Residual": 0.3300750000000008
+    },
+    {
+      "sample_state_id": "F21;S2",
+      "group_id": "F21",
+      "adulteration_percent": 15.207,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 15.207,
+      "Predicted": 13.702105000000007,
+      "Residual": -1.504894999999994
+    },
+    {
+      "sample_state_id": "F21;S3",
+      "group_id": "F21",
+      "adulteration_percent": 30.064,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 30.064,
+      "Predicted": 27.647305000000014,
+      "Residual": -2.4166949999999865
+    },
+    {
+      "sample_state_id": "F21;S4",
+      "group_id": "F21",
+      "adulteration_percent": 49.891,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 49.891,
+      "Predicted": 49.53893499999988,
+      "Residual": -0.35206500000011687
+    },
+    {
+      "sample_state_id": "F22;S1",
+      "group_id": "F22",
+      "adulteration_percent": 5.041,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 5.041,
+      "Predicted": 5.395665000000011,
+      "Residual": 0.35466500000001044
+    },
+    {
+      "sample_state_id": "F22;S2",
+      "group_id": "F22",
+      "adulteration_percent": 14.549,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 14.549,
+      "Predicted": 15.251269999999984,
+      "Residual": 0.7022699999999844
+    },
+    {
+      "sample_state_id": "F22;S3",
+      "group_id": "F22",
+      "adulteration_percent": 29.966,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 29.966,
+      "Predicted": 30.35859500000005,
+      "Residual": 0.39259500000004977
+    },
+    {
+      "sample_state_id": "F22;S4",
+      "group_id": "F22",
+      "adulteration_percent": 49.638,
+      "Repeat": 7,
+      "Outer_fold": 3,
+      "Observed": 49.638,
+      "Predicted": 49.78527500000006,
+      "Residual": 0.14727500000006444
+    }
+  ],
+  "outer_training_bands": [],
+  "adaptive_or_equal_weights": {
+    "nir_full": 1.0
+  }
+}

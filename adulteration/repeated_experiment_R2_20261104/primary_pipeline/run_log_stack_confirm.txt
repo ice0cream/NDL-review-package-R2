@@ -1,0 +1,2099 @@
+=== check 2026-11-11 06:33:50
+check: max |driver - saved pipeline prediction| on fold 1 = 7.11e-15
+=== nir_stack repeats=10 2026-11-11 06:40:51
+quantitative_with_zero105 repeat 1 outer 1: resume completed
+quantitative_with_zero105 repeat 1 outer 2: resume completed
+quantitative_with_zero105 repeat 1 outer 3: resume completed
+quantitative_with_zero105 repeat 1 outer 4: resume completed
+quantitative_with_zero105 repeat 1 outer 5: resume completed
+quantitative_with_zero105 repeat 2 outer 1: resume completed
+quantitative_with_zero105 repeat 2 outer 2: resume completed
+quantitative_with_zero105 repeat 2 outer 3: resume completed
+quantitative_with_zero105 repeat 2 outer 4: resume completed
+quantitative_with_zero105 repeat 2 outer 5: resume completed
+quantitative_with_zero105 repeat 3 outer 1: resume completed
+quantitative_with_zero105 repeat 3 outer 2: resume completed
+quantitative_with_zero105 repeat 3 outer 3: resume completed
+quantitative_with_zero105 repeat 3 outer 4: resume completed
+quantitative_with_zero105 repeat 3 outer 5: resume completed
+quantitative_with_zero105 repeat 4 outer 1: resume completed
+quantitative_with_zero105 repeat 4 outer 2: resume completed
+quantitative_with_zero105 repeat 4 outer 3: resume completed
+quantitative_with_zero105 repeat 4 outer 4: resume completed
+quantitative_with_zero105 repeat 4 outer 5: resume completed
+quantitative_with_zero105 repeat 5 outer 1: resume completed
+quantitative_with_zero105 repeat 5 outer 2: resume completed
+quantitative_with_zero105 repeat 5 outer 3: resume completed
+quantitative_with_zero105 repeat 5 outer 4: resume completed
+quantitative_with_zero105 repeat 5 outer 5: resume completed
+quantitative_with_zero105 repeat 6/10 outer 1/5: 90 training, 20 validation; 24 preprocessing searches
+  N01 complete; failed candidates=0; elapsed=192s
+  N02 complete; failed candidates=0; elapsed=203s
+  N07 complete; failed candidates=0; elapsed=208s
+  N06 complete; failed candidates=0; elapsed=208s
+  N03 complete; failed candidates=0; elapsed=210s
+  N04 complete; failed candidates=0; elapsed=212s
+  N09 complete; failed candidates=0; elapsed=213s
+  N08 complete; failed candidates=0; elapsed=213s
+  N10 complete; failed candidates=0; elapsed=215s
+  N05 complete; failed candidates=0; elapsed=216s
+  N14 complete; failed candidates=0; elapsed=216s
+  N11 complete; failed candidates=0; elapsed=216s
+  N12 complete; failed candidates=0; elapsed=217s
+  N13 complete; failed candidates=0; elapsed=217s
+  N15 complete; failed candidates=0; elapsed=351s
+  N17 complete; failed candidates=0; elapsed=360s
+  N22 complete; failed candidates=0; elapsed=361s
+  N18 complete; failed candidates=0; elapsed=361s
+  N19 complete; failed candidates=0; elapsed=362s
+  N20 complete; failed candidates=0; elapsed=363s
+  N23 complete; failed candidates=0; elapsed=364s
+  N16 complete; failed candidates=0; elapsed=365s
+  N21 complete; failed candidates=0; elapsed=365s
+  N24 complete; failed candidates=0; elapsed=366s
+  Locked N13 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 6/10 outer 2/5: 90 training, 20 validation; 24 preprocessing searches
+  N06 complete; failed candidates=0; elapsed=186s
+  N01 complete; failed candidates=0; elapsed=199s
+  N03 complete; failed candidates=0; elapsed=199s
+  N07 complete; failed candidates=0; elapsed=200s
+  N04 complete; failed candidates=0; elapsed=201s
+  N02 complete; failed candidates=0; elapsed=203s
+  N14 complete; failed candidates=0; elapsed=204s
+  N05 complete; failed candidates=0; elapsed=205s
+  N11 complete; failed candidates=0; elapsed=207s
+  N08 complete; failed candidates=0; elapsed=208s
+  N09 complete; failed candidates=0; elapsed=208s
+  N10 complete; failed candidates=0; elapsed=208s
+  N12 complete; failed candidates=0; elapsed=209s
+  N13 complete; failed candidates=0; elapsed=209s
+  N15 complete; failed candidates=0; elapsed=339s
+  N17 complete; failed candidates=0; elapsed=342s
+  N18 complete; failed candidates=0; elapsed=342s
+  N19 complete; failed candidates=0; elapsed=347s
+  N22 complete; failed candidates=0; elapsed=347s
+  N20 complete; failed candidates=0; elapsed=347s
+  N21 complete; failed candidates=0; elapsed=350s
+  N23 complete; failed candidates=0; elapsed=351s
+  N16 complete; failed candidates=0; elapsed=352s
+  N24 complete; failed candidates=0; elapsed=352s
+  Locked N10 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 6/10 outer 3/5: 90 training, 20 validation; 24 preprocessing searches
+  N06 complete; failed candidates=0; elapsed=198s
+  N01 complete; failed candidates=0; elapsed=205s
+  N03 complete; failed candidates=0; elapsed=207s
+  N07 complete; failed candidates=0; elapsed=208s
+  N02 complete; failed candidates=0; elapsed=209s
+  N04 complete; failed candidates=0; elapsed=210s
+  N14 complete; failed candidates=0; elapsed=213s
+  N08 complete; failed candidates=0; elapsed=214s
+  N05 complete; failed candidates=0; elapsed=215s
+  N09 complete; failed candidates=0; elapsed=216s
+  N10 complete; failed candidates=0; elapsed=217s
+  N11 complete; failed candidates=0; elapsed=217s
+  N12 complete; failed candidates=0; elapsed=217s
+  N13 complete; failed candidates=0; elapsed=220s
+  N15 complete; failed candidates=0; elapsed=361s
+  N18 complete; failed candidates=0; elapsed=362s
+  N17 complete; failed candidates=0; elapsed=365s
+  N22 complete; failed candidates=0; elapsed=368s
+  N19 complete; failed candidates=0; elapsed=368s
+  N20 complete; failed candidates=0; elapsed=369s
+  N21 complete; failed candidates=0; elapsed=370s
+  N23 complete; failed candidates=0; elapsed=370s
+  N16 complete; failed candidates=0; elapsed=370s
+  N24 complete; failed candidates=0; elapsed=371s
+  Locked N08 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 6/10 outer 4/5: 85 training, 25 validation; 24 preprocessing searches
+  N01 complete; failed candidates=0; elapsed=201s
+  N02 complete; failed candidates=0; elapsed=208s
+  N07 complete; failed candidates=0; elapsed=210s
+  N06 complete; failed candidates=0; elapsed=212s
+  N04 complete; failed candidates=0; elapsed=212s
+  N08 complete; failed candidates=0; elapsed=212s
+  N09 complete; failed candidates=0; elapsed=212s
+  N03 complete; failed candidates=0; elapsed=213s
+  N10 complete; failed candidates=0; elapsed=217s
+  N14 complete; failed candidates=0; elapsed=217s
+  N05 complete; failed candidates=0; elapsed=217s
+  N11 complete; failed candidates=0; elapsed=218s
+  N12 complete; failed candidates=0; elapsed=218s
+  N13 complete; failed candidates=0; elapsed=219s
+  N17 complete; failed candidates=0; elapsed=351s
+  N15 complete; failed candidates=0; elapsed=355s
+  N20 complete; failed candidates=0; elapsed=355s
+  N18 complete; failed candidates=0; elapsed=358s
+  N19 complete; failed candidates=0; elapsed=359s
+  N22 complete; failed candidates=0; elapsed=360s
+  N21 complete; failed candidates=0; elapsed=361s
+  N23 complete; failed candidates=0; elapsed=362s
+  N16 complete; failed candidates=0; elapsed=362s
+  N24 complete; failed candidates=0; elapsed=363s
+  Locked N18 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 6/10 outer 5/5: 85 training, 25 validation; 24 preprocessing searches
+  N02 complete; failed candidates=0; elapsed=191s
+  N03 complete; failed candidates=0; elapsed=192s
+  N01 complete; failed candidates=0; elapsed=193s
+  N04 complete; failed candidates=0; elapsed=201s
+  N06 complete; failed candidates=0; elapsed=202s
+  N07 complete; failed candidates=0; elapsed=203s
+  N10 complete; failed candidates=0; elapsed=203s
+  N09 complete; failed candidates=0; elapsed=204s
+  N11 complete; failed candidates=0; elapsed=205s
+  N05 complete; failed candidates=0; elapsed=206s
+  N14 complete; failed candidates=0; elapsed=207s
+  N12 complete; failed candidates=0; elapsed=207s
+  N08 complete; failed candidates=0; elapsed=208s
+  N13 complete; failed candidates=0; elapsed=209s
+  N17 complete; failed candidates=0; elapsed=340s
+  N15 complete; failed candidates=0; elapsed=345s
+  N19 complete; failed candidates=0; elapsed=350s
+  N16 complete; failed candidates=0; elapsed=351s
+  N18 complete; failed candidates=0; elapsed=352s
+  N22 complete; failed candidates=0; elapsed=352s
+  N20 complete; failed candidates=0; elapsed=352s
+  N23 complete; failed candidates=0; elapsed=352s
+  N21 complete; failed candidates=0; elapsed=353s
+  N24 complete; failed candidates=0; elapsed=353s
+  Locked N20 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 7/10 outer 1/5: 85 training, 25 validation; 24 preprocessing searches
+  N04 complete; failed candidates=0; elapsed=177s
+  N02 complete; failed candidates=0; elapsed=180s
+  N06 complete; failed candidates=0; elapsed=181s
+  N01 complete; failed candidates=0; elapsed=181s
+  N03 complete; failed candidates=0; elapsed=182s
+  N07 complete; failed candidates=0; elapsed=183s
+  N05 complete; failed candidates=0; elapsed=184s
+  N14 complete; failed candidates=0; elapsed=185s
+  N12 complete; failed candidates=0; elapsed=185s
+  N09 complete; failed candidates=0; elapsed=185s
+  N11 complete; failed candidates=0; elapsed=187s
+  N10 complete; failed candidates=0; elapsed=187s
+  N13 complete; failed candidates=0; elapsed=187s
+  N08 complete; failed candidates=0; elapsed=187s
+  N15 complete; failed candidates=0; elapsed=328s
+  N18 complete; failed candidates=0; elapsed=329s
+  N19 complete; failed candidates=0; elapsed=330s
+  N17 complete; failed candidates=0; elapsed=330s
+  N20 complete; failed candidates=0; elapsed=333s
+  N23 complete; failed candidates=0; elapsed=333s
+  N22 complete; failed candidates=0; elapsed=333s
+  N21 complete; failed candidates=0; elapsed=334s
+  N16 complete; failed candidates=0; elapsed=335s
+  N24 complete; failed candidates=0; elapsed=336s
+  Locked N10 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 7/10 outer 2/5: 90 training, 20 validation; 24 preprocessing searches
+  N06 complete; failed candidates=0; elapsed=191s
+  N07 complete; failed candidates=0; elapsed=197s
+  N01 complete; failed candidates=0; elapsed=202s
+  N03 complete; failed candidates=0; elapsed=202s
+  N02 complete; failed candidates=0; elapsed=204s
+  N04 complete; failed candidates=0; elapsed=204s
+  N14 complete; failed candidates=0; elapsed=204s
+  N10 complete; failed candidates=0; elapsed=211s
+  N05 complete; failed candidates=0; elapsed=212s
+  N08 complete; failed candidates=0; elapsed=213s
+  N09 complete; failed candidates=0; elapsed=213s
+  N11 complete; failed candidates=0; elapsed=213s
+  N12 complete; failed candidates=0; elapsed=213s
+  N13 complete; failed candidates=0; elapsed=214s
+  N15 complete; failed candidates=0; elapsed=349s
+  N18 complete; failed candidates=0; elapsed=355s
+  N17 complete; failed candidates=0; elapsed=356s
+  N20 complete; failed candidates=0; elapsed=357s
+  N19 complete; failed candidates=0; elapsed=357s
+  N21 complete; failed candidates=0; elapsed=358s
+  N16 complete; failed candidates=0; elapsed=358s
+  N23 complete; failed candidates=0; elapsed=360s
+  N22 complete; failed candidates=0; elapsed=360s
+  N24 complete; failed candidates=0; elapsed=361s
+  Locked N01 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 7/10 outer 3/5: 90 training, 20 validation; 24 preprocessing searches
+  N01 complete; failed candidates=0; elapsed=191s
+  N07 complete; failed candidates=0; elapsed=197s
+  N02 complete; failed candidates=0; elapsed=200s
+  N03 complete; failed candidates=0; elapsed=201s
+  N06 complete; failed candidates=0; elapsed=202s
+  N04 complete; failed candidates=0; elapsed=202s
+  N08 complete; failed candidates=0; elapsed=203s
+  N09 complete; failed candidates=0; elapsed=204s
+  N14 complete; failed candidates=0; elapsed=206s
+  N11 complete; failed candidates=0; elapsed=206s
+  N10 complete; failed candidates=0; elapsed=206s
+  N05 complete; failed candidates=0; elapsed=207s
+  N12 complete; failed candidates=0; elapsed=207s
+  N13 complete; failed candidates=0; elapsed=209s
+  N15 complete; failed candidates=0; elapsed=342s
+  N17 complete; failed candidates=0; elapsed=348s
+  N19 complete; failed candidates=0; elapsed=349s
+  N18 complete; failed candidates=0; elapsed=350s
+  N20 complete; failed candidates=0; elapsed=350s
+  N22 complete; failed candidates=0; elapsed=350s
+  N21 complete; failed candidates=0; elapsed=350s
+  N16 complete; failed candidates=0; elapsed=350s
+  N23 complete; failed candidates=0; elapsed=351s
+  N24 complete; failed candidates=0; elapsed=352s
+  Locked N21 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 7/10 outer 4/5: 90 training, 20 validation; 24 preprocessing searches
+  N02 complete; failed candidates=0; elapsed=192s
+  N01 complete; failed candidates=0; elapsed=193s
+  N03 complete; failed candidates=0; elapsed=195s
+  N06 complete; failed candidates=0; elapsed=198s
+  N04 complete; failed candidates=0; elapsed=200s
+  N07 complete; failed candidates=0; elapsed=202s
+  N10 complete; failed candidates=0; elapsed=203s
+  N09 complete; failed candidates=0; elapsed=204s
+  N14 complete; failed candidates=0; elapsed=205s
+  N11 complete; failed candidates=0; elapsed=205s
+  N05 complete; failed candidates=0; elapsed=206s
+  N08 complete; failed candidates=0; elapsed=207s
+  N12 complete; failed candidates=0; elapsed=207s
+  N13 complete; failed candidates=0; elapsed=208s
+  N17 complete; failed candidates=0; elapsed=339s
+  N15 complete; failed candidates=0; elapsed=344s
+  N18 complete; failed candidates=0; elapsed=346s
+  N19 complete; failed candidates=0; elapsed=348s
+  N22 complete; failed candidates=0; elapsed=349s
+  N23 complete; failed candidates=0; elapsed=350s
+  N20 complete; failed candidates=0; elapsed=350s
+  N16 complete; failed candidates=0; elapsed=350s
+  N21 complete; failed candidates=0; elapsed=351s
+  N24 complete; failed candidates=0; elapsed=351s
+  Locked N10 PLSR + Equal_average; outer predictions saved
+quantitative_with_zero105 repeat 7/10 outer 5/5: 85 training, 25 validation; 24 preprocessing searches
+  N03 complete; failed candidates=0; elapsed=189s
+  N04 complete; failed candidates=0; elapsed=191s
+  N01 complete; failed candidates=0; elapsed=194s
+  N07 complete; failed candidates=0; elapsed=201s
+  N06 complete; failed candidates=0; elapsed=201s
+  N02 complete; failed candidates=0; elapsed=202s
+  N12 complete; failed candidates=0; elapsed=203s
+  N11 complete; failed candidates=0; elapsed=206s
+  N14 complete; failed candidates=0; elapsed=206s
+  N05 complete; failed candidates=0; elapsed=206s
+  N09 complete; failed candidates=0; elapsed=206s
+  N10 complete; failed candidates=0; elapsed=206s
+  N08 complete; failed candidates=0; elapsed=207s
+  N13 complete; failed candidates=0; elapsed=207s
+  N15 complete; failed candidates=0; elapsed=342s
+  N17 complete; failed candidates=0; elapsed=344s
+  N16 complete; failed candidates=0; elapsed=347s
+  N18 complete; failed candidates=0; elapsed=348s
+  N19 complete; failed candidates=0; elapsed=348s
+  N20 complete; failed candidates=0; elapsed=348s
+  N22 complete; failed candidates=0; elapsed=349s
+  N21 complete; failed candidates=0; elapsed=349s
+  N23 complete; failed candidates=0; elapsed=351s
+  N24 complete; failed candidates=0; elapsed=351s
+  Locked N17 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 8/10 outer 1/5: 90 training, 20 validation; 24 preprocessing searches
+  N06 complete; failed candidates=0; elapsed=184s
+  N07 complete; failed candidates=0; elapsed=194s
+  N04 complete; failed candidates=0; elapsed=195s
+  N01 complete; failed candidates=0; elapsed=196s
+  N03 complete; failed candidates=0; elapsed=198s
+  N02 complete; failed candidates=0; elapsed=198s
+  N05 complete; failed candidates=0; elapsed=202s
+  N14 complete; failed candidates=0; elapsed=202s
+  N12 complete; failed candidates=0; elapsed=204s
+  N08 complete; failed candidates=0; elapsed=205s
+  N11 complete; failed candidates=0; elapsed=206s
+  N10 complete; failed candidates=0; elapsed=206s
+  N09 complete; failed candidates=0; elapsed=206s
+  N13 complete; failed candidates=0; elapsed=206s
+  N15 complete; failed candidates=0; elapsed=340s
+  N17 complete; failed candidates=0; elapsed=343s
+  N18 complete; failed candidates=0; elapsed=345s
+  N19 complete; failed candidates=0; elapsed=346s
+  N22 complete; failed candidates=0; elapsed=347s
+  N20 complete; failed candidates=0; elapsed=348s
+  N21 complete; failed candidates=0; elapsed=348s
+  N16 complete; failed candidates=0; elapsed=349s
+  N23 complete; failed candidates=0; elapsed=350s
+  N24 complete; failed candidates=0; elapsed=351s
+  Locked N20 SVR + RF; outer predictions saved
+quantitative_with_zero105 repeat 8/10 outer 2/5: 85 training, 25 validation; 24 preprocessing searches
+  N07 complete; failed candidates=0; elapsed=180s
+  N06 complete; failed candidates=0; elapsed=183s
+  N01 complete; failed candidates=0; elapsed=184s
+  N04 complete; failed candidates=0; elapsed=187s
+  N08 complete; failed candidates=0; elapsed=188s
+  N03 complete; failed candidates=0; elapsed=189s
+  N02 complete; failed candidates=0; elapsed=190s
+  N05 complete; failed candidates=0; elapsed=192s
+  N09 complete; failed candidates=0; elapsed=193s
+  N14 complete; failed candidates=0; elapsed=194s
+  N10 complete; failed candidates=0; elapsed=194s
+  N11 complete; failed candidates=0; elapsed=194s
+  N12 complete; failed candidates=0; elapsed=195s
+  N13 complete; failed candidates=0; elapsed=195s
+  N17 complete; failed candidates=0; elapsed=322s
+  N15 complete; failed candidates=0; elapsed=322s
+  N19 complete; failed candidates=0; elapsed=324s
+  N22 complete; failed candidates=0; elapsed=327s
+  N18 complete; failed candidates=0; elapsed=329s
+  N23 complete; failed candidates=0; elapsed=329s
+  N20 complete; failed candidates=0; elapsed=329s
+  N16 complete; failed candidates=0; elapsed=329s
+  N21 complete; failed candidates=0; elapsed=329s
+  N24 complete; failed candidates=0; elapsed=330s
+  Locked N04 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 8/10 outer 3/5: 90 training, 20 validation; 24 preprocessing searches
+  N06 complete; failed candidates=0; elapsed=177s
+  N02 complete; failed candidates=0; elapsed=180s
+  N04 complete; failed candidates=0; elapsed=182s
+  N03 complete; failed candidates=0; elapsed=184s
+  N01 complete; failed candidates=0; elapsed=185s
+  N07 complete; failed candidates=0; elapsed=188s
+  N09 complete; failed candidates=0; elapsed=189s
+  N11 complete; failed candidates=0; elapsed=191s
+  N05 complete; failed candidates=0; elapsed=191s
+  N10 complete; failed candidates=0; elapsed=192s
+  N14 complete; failed candidates=0; elapsed=192s
+  N08 complete; failed candidates=0; elapsed=192s
+  N12 complete; failed candidates=0; elapsed=194s
+  N13 complete; failed candidates=0; elapsed=194s
+  N19 complete; failed candidates=0; elapsed=323s
+  N18 complete; failed candidates=0; elapsed=324s
+  N15 complete; failed candidates=0; elapsed=326s
+  N17 complete; failed candidates=0; elapsed=326s
+  N16 complete; failed candidates=0; elapsed=329s
+  N20 complete; failed candidates=0; elapsed=330s
+  N22 complete; failed candidates=0; elapsed=330s
+  N23 complete; failed candidates=0; elapsed=331s
+  N21 complete; failed candidates=0; elapsed=331s
+  N24 complete; failed candidates=0; elapsed=331s
+  Locked N18 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 8/10 outer 4/5: 85 training, 25 validation; 24 preprocessing searches
+  N07 complete; failed candidates=0; elapsed=179s
+  N03 complete; failed candidates=0; elapsed=181s
+  N06 complete; failed candidates=0; elapsed=182s
+  N04 complete; failed candidates=0; elapsed=184s
+  N01 complete; failed candidates=0; elapsed=184s
+  N02 complete; failed candidates=0; elapsed=188s
+  N11 complete; failed candidates=0; elapsed=189s
+  N05 complete; failed candidates=0; elapsed=192s
+  N08 complete; failed candidates=0; elapsed=193s
+  N14 complete; failed candidates=0; elapsed=193s
+  N12 complete; failed candidates=0; elapsed=194s
+  N10 complete; failed candidates=0; elapsed=194s
+  N09 complete; failed candidates=0; elapsed=194s
+  N13 complete; failed candidates=0; elapsed=196s
+  N18 complete; failed candidates=0; elapsed=322s
+  N17 complete; failed candidates=0; elapsed=324s
+  N15 complete; failed candidates=0; elapsed=324s
+  N19 complete; failed candidates=0; elapsed=325s
+  N16 complete; failed candidates=0; elapsed=327s
+  N20 complete; failed candidates=0; elapsed=327s
+  N22 complete; failed candidates=0; elapsed=328s
+  N21 complete; failed candidates=0; elapsed=330s
+  N23 complete; failed candidates=0; elapsed=331s
+  N24 complete; failed candidates=0; elapsed=331s
+  Locked N05 SVR + RF; outer predictions saved
+quantitative_with_zero105 repeat 8/10 outer 5/5: 90 training, 20 validation; 24 preprocessing searches
+  N06 complete; failed candidates=0; elapsed=178s
+  N03 complete; failed candidates=0; elapsed=181s
+  N04 complete; failed candidates=0; elapsed=182s
+  N01 complete; failed candidates=0; elapsed=184s
+  N07 complete; failed candidates=0; elapsed=186s
+  N02 complete; failed candidates=0; elapsed=187s
+  N14 complete; failed candidates=0; elapsed=188s
+  N05 complete; failed candidates=0; elapsed=189s
+  N12 complete; failed candidates=0; elapsed=191s
+  N08 complete; failed candidates=0; elapsed=192s
+  N11 complete; failed candidates=0; elapsed=192s
+  N09 complete; failed candidates=0; elapsed=192s
+  N10 complete; failed candidates=0; elapsed=192s
+  N13 complete; failed candidates=0; elapsed=193s
+  N15 complete; failed candidates=0; elapsed=322s
+  N17 complete; failed candidates=0; elapsed=323s
+  N18 complete; failed candidates=0; elapsed=325s
+  N19 complete; failed candidates=0; elapsed=325s
+  N22 complete; failed candidates=0; elapsed=326s
+  N20 complete; failed candidates=0; elapsed=327s
+  N21 complete; failed candidates=0; elapsed=327s
+  N23 complete; failed candidates=0; elapsed=327s
+  N16 complete; failed candidates=0; elapsed=328s
+  N24 complete; failed candidates=0; elapsed=329s
+  Locked N18 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 9/10 outer 1/5: 85 training, 25 validation; 24 preprocessing searches
+  N01 complete; failed candidates=0; elapsed=179s
+  N06 complete; failed candidates=0; elapsed=181s
+  N03 complete; failed candidates=0; elapsed=181s
+  N07 complete; failed candidates=0; elapsed=183s
+  N04 complete; failed candidates=0; elapsed=183s
+  N02 complete; failed candidates=0; elapsed=185s
+  N08 complete; failed candidates=0; elapsed=187s
+  N05 complete; failed candidates=0; elapsed=189s
+  N09 complete; failed candidates=0; elapsed=189s
+  N11 complete; failed candidates=0; elapsed=190s
+  N14 complete; failed candidates=0; elapsed=190s
+  N10 complete; failed candidates=0; elapsed=191s
+  N12 complete; failed candidates=0; elapsed=191s
+  N13 complete; failed candidates=0; elapsed=192s
+  N18 complete; failed candidates=0; elapsed=318s
+  N17 complete; failed candidates=0; elapsed=321s
+  N19 complete; failed candidates=0; elapsed=322s
+  N20 complete; failed candidates=0; elapsed=323s
+  N15 complete; failed candidates=0; elapsed=325s
+  N21 complete; failed candidates=0; elapsed=325s
+  N16 complete; failed candidates=0; elapsed=325s
+  N22 complete; failed candidates=0; elapsed=325s
+  N23 complete; failed candidates=0; elapsed=325s
+  N24 complete; failed candidates=0; elapsed=326s
+  Locked N02 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 9/10 outer 2/5: 90 training, 20 validation; 24 preprocessing searches
+  N02 complete; failed candidates=0; elapsed=179s
+  N01 complete; failed candidates=0; elapsed=182s
+  N03 complete; failed candidates=0; elapsed=184s
+  N07 complete; failed candidates=0; elapsed=185s
+  N04 complete; failed candidates=0; elapsed=186s
+  N06 complete; failed candidates=0; elapsed=187s
+  N09 complete; failed candidates=0; elapsed=189s
+  N11 complete; failed candidates=0; elapsed=191s
+  N10 complete; failed candidates=0; elapsed=192s
+  N05 complete; failed candidates=0; elapsed=192s
+  N14 complete; failed candidates=0; elapsed=193s
+  N08 complete; failed candidates=0; elapsed=194s
+  N12 complete; failed candidates=0; elapsed=194s
+  N13 complete; failed candidates=0; elapsed=194s
+  N17 complete; failed candidates=0; elapsed=321s
+  N15 complete; failed candidates=0; elapsed=323s
+  N20 complete; failed candidates=0; elapsed=326s
+  N19 complete; failed candidates=0; elapsed=326s
+  N18 complete; failed candidates=0; elapsed=326s
+  N16 complete; failed candidates=0; elapsed=326s
+  N23 complete; failed candidates=0; elapsed=327s
+  N22 complete; failed candidates=0; elapsed=327s
+  N21 complete; failed candidates=0; elapsed=328s
+  N24 complete; failed candidates=0; elapsed=329s
+  Locked N09 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 9/10 outer 3/5: 90 training, 20 validation; 24 preprocessing searches
+  N03 complete; failed candidates=0; elapsed=180s
+  N04 complete; failed candidates=0; elapsed=183s
+  N02 complete; failed candidates=0; elapsed=185s
+  N06 complete; failed candidates=0; elapsed=185s
+  N07 complete; failed candidates=0; elapsed=187s
+  N01 complete; failed candidates=0; elapsed=187s
+  N11 complete; failed candidates=0; elapsed=191s
+  N08 complete; failed candidates=0; elapsed=193s
+  N05 complete; failed candidates=0; elapsed=193s
+  N12 complete; failed candidates=0; elapsed=193s
+  N10 complete; failed candidates=0; elapsed=194s
+  N09 complete; failed candidates=0; elapsed=194s
+  N14 complete; failed candidates=0; elapsed=194s
+  N13 complete; failed candidates=0; elapsed=194s
+  N15 complete; failed candidates=0; elapsed=322s
+  N18 complete; failed candidates=0; elapsed=325s
+  N17 complete; failed candidates=0; elapsed=325s
+  N19 complete; failed candidates=0; elapsed=325s
+  N20 complete; failed candidates=0; elapsed=325s
+  N16 complete; failed candidates=0; elapsed=328s
+  N23 complete; failed candidates=0; elapsed=330s
+  N22 complete; failed candidates=0; elapsed=330s
+  N24 complete; failed candidates=0; elapsed=330s
+  N21 complete; failed candidates=0; elapsed=330s
+  Locked N09 PLSR + PLSR; outer predictions saved
+quantitative_with_zero105 repeat 9/10 outer 4/5: 85 training, 25 validation; 24 preprocessing searches
+  N02 complete; failed candidates=0; elapsed=180s
+  N06 complete; failed candidates=0; elapsed=182s
+  N07 complete; failed candidates=0; elapsed=184s
+  N01 complete; failed candidates=0; elapsed=185s
+  N04 complete; failed candidates=0; elapsed=185s
+  N03 complete; failed candidates=0; elapsed=187s
+  N14 complete; failed candidates=0; elapsed=189s
+  N08 complete; failed candidates=0; elapsed=190s
+  N05 complete; failed candidates=0; elapsed=192s
+  N11 complete; failed candidates=0; elapsed=192s
+  N10 complete; failed candidates=0; elapsed=192s
+  N13 complete; failed candidates=0; elapsed=193s
+  N12 complete; failed candidates=0; elapsed=193s
+  N09 complete; failed candidates=0; elapsed=193s
+  N17 complete; failed candidates=0; elapsed=322s
+  N19 complete; failed candidates=0; elapsed=324s
+  N18 complete; failed candidates=0; elapsed=325s
+  N16 complete; failed candidates=0; elapsed=327s
+  N15 complete; failed candidates=0; elapsed=327s
+  N20 complete; failed candidates=0; elapsed=327s
+  N23 complete; failed candidates=0; elapsed=328s
+  N22 complete; failed candidates=0; elapsed=328s
+  N21 complete; failed candidates=0; elapsed=330s
+  N24 complete; failed candidates=0; elapsed=330s
+  Locked N01 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 9/10 outer 5/5: 90 training, 20 validation; 24 preprocessing searches
+  N07 complete; failed candidates=0; elapsed=181s
+  N06 complete; failed candidates=0; elapsed=188s
+  N01 complete; failed candidates=0; elapsed=189s
+  N03 complete; failed candidates=0; elapsed=189s
+  N02 complete; failed candidates=0; elapsed=190s
+  N04 complete; failed candidates=0; elapsed=190s
+  N08 complete; failed candidates=0; elapsed=192s
+  N14 complete; failed candidates=0; elapsed=195s
+  N05 complete; failed candidates=0; elapsed=195s
+  N11 complete; failed candidates=0; elapsed=196s
+  N09 complete; failed candidates=0; elapsed=196s
+  N10 complete; failed candidates=0; elapsed=196s
+  N12 complete; failed candidates=0; elapsed=197s
+  N13 complete; failed candidates=0; elapsed=198s
+  N15 complete; failed candidates=0; elapsed=323s
+  N19 complete; failed candidates=0; elapsed=327s
+  N17 complete; failed candidates=0; elapsed=328s
+  N20 complete; failed candidates=0; elapsed=330s
+  N21 complete; failed candidates=0; elapsed=330s
+  N18 complete; failed candidates=0; elapsed=331s
+  N22 complete; failed candidates=0; elapsed=331s
+  N23 complete; failed candidates=0; elapsed=333s
+  N16 complete; failed candidates=0; elapsed=333s
+  N24 complete; failed candidates=0; elapsed=334s
+  Locked N01 PLSR + Equal_average; outer predictions saved
+quantitative_with_zero105 repeat 10/10 outer 1/5: 90 training, 20 validation; 24 preprocessing searches
+  N01 complete; failed candidates=0; elapsed=170s
+  N06 complete; failed candidates=0; elapsed=180s
+  N02 complete; failed candidates=0; elapsed=180s
+  N03 complete; failed candidates=0; elapsed=182s
+  N07 complete; failed candidates=0; elapsed=187s
+  N04 complete; failed candidates=0; elapsed=187s
+  N05 complete; failed candidates=0; elapsed=190s
+  N09 complete; failed candidates=0; elapsed=191s
+  N08 complete; failed candidates=0; elapsed=192s
+  N10 complete; failed candidates=0; elapsed=192s
+  N12 complete; failed candidates=0; elapsed=193s
+  N11 complete; failed candidates=0; elapsed=193s
+  N14 complete; failed candidates=0; elapsed=193s
+  N13 complete; failed candidates=0; elapsed=195s
+  N17 complete; failed candidates=0; elapsed=321s
+  N15 complete; failed candidates=0; elapsed=322s
+  N18 complete; failed candidates=0; elapsed=323s
+  N19 complete; failed candidates=0; elapsed=325s
+  N20 complete; failed candidates=0; elapsed=326s
+  N16 complete; failed candidates=0; elapsed=327s
+  N22 complete; failed candidates=0; elapsed=328s
+  N23 complete; failed candidates=0; elapsed=328s
+  N21 complete; failed candidates=0; elapsed=329s
+  N24 complete; failed candidates=0; elapsed=329s
+  Locked N18 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 10/10 outer 2/5: 90 training, 20 validation; 24 preprocessing searches
+  N03 complete; failed candidates=0; elapsed=181s
+  N06 complete; failed candidates=0; elapsed=183s
+  N07 complete; failed candidates=0; elapsed=185s
+  N01 complete; failed candidates=0; elapsed=185s
+  N04 complete; failed candidates=0; elapsed=186s
+  N02 complete; failed candidates=0; elapsed=187s
+  N11 complete; failed candidates=0; elapsed=191s
+  N05 complete; failed candidates=0; elapsed=192s
+  N14 complete; failed candidates=0; elapsed=192s
+  N08 complete; failed candidates=0; elapsed=192s
+  N12 complete; failed candidates=0; elapsed=192s
+  N09 complete; failed candidates=0; elapsed=193s
+  N10 complete; failed candidates=0; elapsed=193s
+  N13 complete; failed candidates=0; elapsed=193s
+  N19 complete; failed candidates=0; elapsed=319s
+  N20 complete; failed candidates=0; elapsed=323s
+  N18 complete; failed candidates=0; elapsed=324s
+  N17 complete; failed candidates=0; elapsed=324s
+  N15 complete; failed candidates=0; elapsed=324s
+  N22 complete; failed candidates=0; elapsed=326s
+  N21 complete; failed candidates=0; elapsed=327s
+  N23 complete; failed candidates=0; elapsed=327s
+  N16 complete; failed candidates=0; elapsed=327s
+  N24 complete; failed candidates=0; elapsed=328s
+  Locked N02 PLSR + Ridge; outer predictions saved
+quantitative_with_zero105 repeat 10/10 outer 3/5: 85 training, 25 validation; 24 preprocessing searches
+  N06 complete; failed candidates=0; elapsed=176s
+  N07 complete; failed candidates=0; elapsed=184s
+  N01 complete; failed candidates=0; elapsed=186s
+  N03 complete; failed candidates=0; elapsed=187s
+  N02 complete; failed candidates=0; elapsed=189s
+  N05 complete; failed candidates=0; elapsed=190s
+  N04 complete; failed candidates=0; elapsed=190s
+  N14 complete; failed candidates=0; elapsed=192s
+  N11 complete; failed candidates=0; elapsed=193s
+  N08 complete; failed candidates=0; elapsed=194s
+  N09 complete; failed candidates=0; elapsed=194s
+  N12 complete; failed candidates=0; elapsed=195s
+  N10 complete; failed candidates=0; elapsed=196s
+  N13 complete; failed candidates=0; elapsed=196s
+  N15 complete; failed candidates=0; elapsed=320s
+  N18 complete; failed candidates=0; elapsed=325s
+  N20 complete; failed candidates=0; elapsed=326s
+  N17 complete; failed candidates=0; elapsed=326s
+  N19 complete; failed candidates=0; elapsed=328s
+  N22 complete; failed candidates=0; elapsed=328s
+  N23 complete; failed candidates=0; elapsed=330s
+  N16 complete; failed candidates=0; elapsed=330s
+  N21 complete; failed candidates=0; elapsed=331s
+  N24 complete; failed candidates=0; elapsed=331s
+  Locked N20 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 10/10 outer 4/5: 85 training, 25 validation; 24 preprocessing searches
+  N07 complete; failed candidates=0; elapsed=179s
+  N01 complete; failed candidates=0; elapsed=180s
+  N06 complete; failed candidates=0; elapsed=184s
+  N08 complete; failed candidates=0; elapsed=186s
+  N04 complete; failed candidates=0; elapsed=186s
+  N02 complete; failed candidates=0; elapsed=187s
+  N03 complete; failed candidates=0; elapsed=188s
+  N14 complete; failed candidates=0; elapsed=190s
+  N12 complete; failed candidates=0; elapsed=191s
+  N05 complete; failed candidates=0; elapsed=192s
+  N09 complete; failed candidates=0; elapsed=192s
+  N11 complete; failed candidates=0; elapsed=193s
+  N10 complete; failed candidates=0; elapsed=193s
+  N13 complete; failed candidates=0; elapsed=193s
+  N15 complete; failed candidates=0; elapsed=321s
+  N18 complete; failed candidates=0; elapsed=325s
+  N20 complete; failed candidates=0; elapsed=325s
+  N17 complete; failed candidates=0; elapsed=325s
+  N19 complete; failed candidates=0; elapsed=327s
+  N22 complete; failed candidates=0; elapsed=327s
+  N16 complete; failed candidates=0; elapsed=327s
+  N23 complete; failed candidates=0; elapsed=328s
+  N21 complete; failed candidates=0; elapsed=328s
+  N24 complete; failed candidates=0; elapsed=329s
+  Locked N17 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 10/10 outer 5/5: 90 training, 20 validation; 24 preprocessing searches
+  N01 complete; failed candidates=0; elapsed=181s
+  N02 complete; failed candidates=0; elapsed=181s
+  N03 complete; failed candidates=0; elapsed=185s
+  N06 complete; failed candidates=0; elapsed=188s
+  N07 complete; failed candidates=0; elapsed=189s
+  N04 complete; failed candidates=0; elapsed=189s
+  N10 complete; failed candidates=0; elapsed=192s
+  N09 complete; failed candidates=0; elapsed=194s
+  N14 complete; failed candidates=0; elapsed=194s
+  N08 complete; failed candidates=0; elapsed=195s
+  N11 complete; failed candidates=0; elapsed=195s
+  N12 complete; failed candidates=0; elapsed=195s
+  N05 complete; failed candidates=0; elapsed=196s
+  N13 complete; failed candidates=0; elapsed=196s
+  N17 complete; failed candidates=0; elapsed=323s
+  N15 complete; failed candidates=0; elapsed=325s
+  N19 complete; failed candidates=0; elapsed=325s
+  N18 complete; failed candidates=0; elapsed=327s
+  N20 complete; failed candidates=0; elapsed=327s
+  N16 complete; failed candidates=0; elapsed=329s
+  N22 complete; failed candidates=0; elapsed=329s
+  N23 complete; failed candidates=0; elapsed=330s
+  N21 complete; failed candidates=0; elapsed=330s
+  N24 complete; failed candidates=0; elapsed=331s
+  Locked N10 PLSR + Equal_average; outer predictions saved
+Completed nir_stack quantitative_with_zero105: runs_repeats\quantitative_with_zero105\nir_stack
+=== fusion_stack repeats=10 2026-11-11 09:03:32
+quantitative_with_zero105 repeat 1 outer 1: resume completed
+quantitative_with_zero105 repeat 1 outer 2: resume completed
+quantitative_with_zero105 repeat 1 outer 3: resume completed
+quantitative_with_zero105 repeat 1 outer 4: resume completed
+quantitative_with_zero105 repeat 1 outer 5: resume completed
+quantitative_with_zero105 repeat 2 outer 1: resume completed
+quantitative_with_zero105 repeat 2 outer 2: resume completed
+quantitative_with_zero105 repeat 2 outer 3: resume completed
+quantitative_with_zero105 repeat 2 outer 4: resume completed
+quantitative_with_zero105 repeat 2 outer 5: resume completed
+quantitative_with_zero105 repeat 3 outer 1: resume completed
+quantitative_with_zero105 repeat 3 outer 2: resume completed
+quantitative_with_zero105 repeat 3 outer 3: resume completed
+quantitative_with_zero105 repeat 3 outer 4: resume completed
+quantitative_with_zero105 repeat 3 outer 5: resume completed
+quantitative_with_zero105 repeat 4 outer 1: resume completed
+quantitative_with_zero105 repeat 4 outer 2: resume completed
+quantitative_with_zero105 repeat 4 outer 3: resume completed
+quantitative_with_zero105 repeat 4 outer 4: resume completed
+quantitative_with_zero105 repeat 4 outer 5: resume completed
+quantitative_with_zero105 repeat 5 outer 1: resume completed
+quantitative_with_zero105 repeat 5 outer 2: resume completed
+quantitative_with_zero105 repeat 5 outer 3: resume completed
+quantitative_with_zero105 repeat 5 outer 4: resume completed
+quantitative_with_zero105 repeat 5 outer 5: resume completed
+quantitative_with_zero105 repeat 6/10 outer 1/5: 90 training, 20 validation; 24 preprocessing searches
+  N07 complete; failed candidates=0; elapsed=220s
+  N03 complete; failed candidates=0; elapsed=224s
+  N01 complete; failed candidates=0; elapsed=227s
+  N04 complete; failed candidates=0; elapsed=229s
+  N06 complete; failed candidates=0; elapsed=229s
+  N08 complete; failed candidates=0; elapsed=230s
+  N02 complete; failed candidates=0; elapsed=232s
+  N14 complete; failed candidates=0; elapsed=235s
+  N09 complete; failed candidates=0; elapsed=235s
+  N12 complete; failed candidates=0; elapsed=235s
+  N11 complete; failed candidates=0; elapsed=236s
+  N05 complete; failed candidates=0; elapsed=236s
+  N10 complete; failed candidates=0; elapsed=237s
+  N13 complete; failed candidates=0; elapsed=237s
+  N15 complete; failed candidates=0; elapsed=392s
+  N17 complete; failed candidates=0; elapsed=395s
+  N20 complete; failed candidates=0; elapsed=396s
+  N19 complete; failed candidates=0; elapsed=396s
+  N18 complete; failed candidates=0; elapsed=398s
+  N22 complete; failed candidates=0; elapsed=399s
+  N23 complete; failed candidates=0; elapsed=399s
+  N16 complete; failed candidates=0; elapsed=400s
+  N21 complete; failed candidates=0; elapsed=401s
+  N24 complete; failed candidates=0; elapsed=401s
+  Locked N13 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 6/10 outer 2/5: 90 training, 20 validation; 24 preprocessing searches
+  N06 complete; failed candidates=0; elapsed=218s
+  N07 complete; failed candidates=0; elapsed=225s
+  N01 complete; failed candidates=0; elapsed=226s
+  N04 complete; failed candidates=0; elapsed=226s
+  N02 complete; failed candidates=0; elapsed=227s
+  N03 complete; failed candidates=0; elapsed=228s
+  N14 complete; failed candidates=0; elapsed=234s
+  N05 complete; failed candidates=0; elapsed=234s
+  N09 complete; failed candidates=0; elapsed=235s
+  N10 complete; failed candidates=0; elapsed=236s
+  N12 complete; failed candidates=0; elapsed=236s
+  N08 complete; failed candidates=0; elapsed=236s
+  N11 complete; failed candidates=0; elapsed=236s
+  N13 complete; failed candidates=0; elapsed=237s
+  N18 complete; failed candidates=0; elapsed=397s
+  N15 complete; failed candidates=0; elapsed=397s
+  N17 complete; failed candidates=0; elapsed=398s
+  N19 complete; failed candidates=0; elapsed=400s
+  N20 complete; failed candidates=0; elapsed=400s
+  N22 complete; failed candidates=0; elapsed=400s
+  N16 complete; failed candidates=0; elapsed=401s
+  N21 complete; failed candidates=0; elapsed=402s
+  N23 complete; failed candidates=0; elapsed=403s
+  N24 complete; failed candidates=0; elapsed=403s
+  Locked N09 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 6/10 outer 3/5: 90 training, 20 validation; 24 preprocessing searches
+  N06 complete; failed candidates=0; elapsed=218s
+  N04 complete; failed candidates=0; elapsed=227s
+  N02 complete; failed candidates=0; elapsed=232s
+  N01 complete; failed candidates=0; elapsed=232s
+  N03 complete; failed candidates=0; elapsed=232s
+  N07 complete; failed candidates=0; elapsed=235s
+  N05 complete; failed candidates=0; elapsed=238s
+  N08 complete; failed candidates=0; elapsed=239s
+  N13 complete; failed candidates=0; elapsed=239s
+  N14 complete; failed candidates=0; elapsed=239s
+  N11 complete; failed candidates=0; elapsed=240s
+  N09 complete; failed candidates=0; elapsed=240s
+  N12 complete; failed candidates=0; elapsed=240s
+  N10 complete; failed candidates=0; elapsed=240s
+  N15 complete; failed candidates=0; elapsed=398s
+  N19 complete; failed candidates=0; elapsed=402s
+  N17 complete; failed candidates=0; elapsed=402s
+  N16 complete; failed candidates=0; elapsed=403s
+  N18 complete; failed candidates=0; elapsed=405s
+  N20 complete; failed candidates=0; elapsed=405s
+  N23 complete; failed candidates=0; elapsed=406s
+  N22 complete; failed candidates=0; elapsed=407s
+  N21 complete; failed candidates=0; elapsed=407s
+  N24 complete; failed candidates=0; elapsed=407s
+  Locked N07 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 6/10 outer 4/5: 85 training, 25 validation; 24 preprocessing searches
+  N03 complete; failed candidates=0; elapsed=221s
+  N06 complete; failed candidates=0; elapsed=221s
+  N07 complete; failed candidates=0; elapsed=224s
+  N04 complete; failed candidates=0; elapsed=224s
+  N01 complete; failed candidates=0; elapsed=226s
+  N02 complete; failed candidates=0; elapsed=228s
+  N05 complete; failed candidates=0; elapsed=230s
+  N11 complete; failed candidates=0; elapsed=231s
+  N08 complete; failed candidates=0; elapsed=232s
+  N12 complete; failed candidates=0; elapsed=233s
+  N14 complete; failed candidates=0; elapsed=233s
+  N10 complete; failed candidates=0; elapsed=234s
+  N13 complete; failed candidates=0; elapsed=234s
+  N09 complete; failed candidates=0; elapsed=234s
+  N18 complete; failed candidates=0; elapsed=396s
+  N17 complete; failed candidates=0; elapsed=396s
+  N19 complete; failed candidates=0; elapsed=398s
+  N15 complete; failed candidates=0; elapsed=398s
+  N22 complete; failed candidates=0; elapsed=400s
+  N16 complete; failed candidates=0; elapsed=401s
+  N20 complete; failed candidates=0; elapsed=402s
+  N21 complete; failed candidates=0; elapsed=402s
+  N24 complete; failed candidates=0; elapsed=403s
+  N23 complete; failed candidates=0; elapsed=403s
+  Locked N02 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 6/10 outer 5/5: 85 training, 25 validation; 24 preprocessing searches
+  N07 complete; failed candidates=0; elapsed=221s
+  N06 complete; failed candidates=0; elapsed=226s
+  N04 complete; failed candidates=0; elapsed=228s
+  N01 complete; failed candidates=0; elapsed=228s
+  N03 complete; failed candidates=0; elapsed=230s
+  N02 complete; failed candidates=0; elapsed=230s
+  N14 complete; failed candidates=0; elapsed=233s
+  N08 complete; failed candidates=0; elapsed=234s
+  N09 complete; failed candidates=0; elapsed=234s
+  N11 complete; failed candidates=0; elapsed=235s
+  N05 complete; failed candidates=0; elapsed=235s
+  N10 complete; failed candidates=0; elapsed=235s
+  N12 complete; failed candidates=0; elapsed=236s
+  N13 complete; failed candidates=0; elapsed=237s
+  N15 complete; failed candidates=0; elapsed=395s
+  N17 complete; failed candidates=0; elapsed=401s
+  N16 complete; failed candidates=0; elapsed=402s
+  N18 complete; failed candidates=0; elapsed=403s
+  N19 complete; failed candidates=0; elapsed=403s
+  N22 complete; failed candidates=0; elapsed=404s
+  N20 complete; failed candidates=0; elapsed=404s
+  N23 complete; failed candidates=0; elapsed=404s
+  N21 complete; failed candidates=0; elapsed=404s
+  N24 complete; failed candidates=0; elapsed=405s
+  Locked N12 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 7/10 outer 1/5: 85 training, 25 validation; 24 preprocessing searches
+  N01 complete; failed candidates=0; elapsed=222s
+  N03 complete; failed candidates=0; elapsed=223s
+  N06 complete; failed candidates=0; elapsed=224s
+  N04 complete; failed candidates=0; elapsed=229s
+  N02 complete; failed candidates=0; elapsed=230s
+  N07 complete; failed candidates=0; elapsed=232s
+  N09 complete; failed candidates=0; elapsed=232s
+  N11 complete; failed candidates=0; elapsed=234s
+  N08 complete; failed candidates=0; elapsed=235s
+  N14 complete; failed candidates=0; elapsed=235s
+  N05 complete; failed candidates=0; elapsed=235s
+  N10 complete; failed candidates=0; elapsed=236s
+  N12 complete; failed candidates=0; elapsed=236s
+  N13 complete; failed candidates=0; elapsed=237s
+  N17 complete; failed candidates=0; elapsed=393s
+  N15 complete; failed candidates=0; elapsed=397s
+  N19 complete; failed candidates=0; elapsed=398s
+  N18 complete; failed candidates=0; elapsed=399s
+  N16 complete; failed candidates=0; elapsed=401s
+  N23 complete; failed candidates=0; elapsed=401s
+  N20 complete; failed candidates=0; elapsed=401s
+  N22 complete; failed candidates=0; elapsed=401s
+  N21 complete; failed candidates=0; elapsed=402s
+  N24 complete; failed candidates=0; elapsed=402s
+  Locked N10 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 7/10 outer 2/5: 90 training, 20 validation; 24 preprocessing searches
+  N01 complete; failed candidates=0; elapsed=217s
+  N03 complete; failed candidates=0; elapsed=226s
+  N02 complete; failed candidates=0; elapsed=228s
+  N06 complete; failed candidates=0; elapsed=230s
+  N04 complete; failed candidates=0; elapsed=230s
+  N07 complete; failed candidates=0; elapsed=231s
+  N11 complete; failed candidates=0; elapsed=234s
+  N10 complete; failed candidates=0; elapsed=234s
+  N08 complete; failed candidates=0; elapsed=235s
+  N12 complete; failed candidates=0; elapsed=236s
+  N14 complete; failed candidates=0; elapsed=236s
+  N05 complete; failed candidates=0; elapsed=236s
+  N09 complete; failed candidates=0; elapsed=236s
+  N13 complete; failed candidates=0; elapsed=237s
+  N15 complete; failed candidates=0; elapsed=395s
+  N22 complete; failed candidates=0; elapsed=398s
+  N17 complete; failed candidates=0; elapsed=399s
+  N19 complete; failed candidates=0; elapsed=399s
+  N20 complete; failed candidates=0; elapsed=401s
+  N18 complete; failed candidates=0; elapsed=402s
+  N16 complete; failed candidates=0; elapsed=402s
+  N23 complete; failed candidates=0; elapsed=402s
+  N21 complete; failed candidates=0; elapsed=403s
+  N24 complete; failed candidates=0; elapsed=404s
+  Locked N01 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 7/10 outer 3/5: 90 training, 20 validation; 24 preprocessing searches
+  N04 complete; failed candidates=0; elapsed=221s
+  N01 complete; failed candidates=0; elapsed=225s
+  N03 complete; failed candidates=0; elapsed=226s
+  N07 complete; failed candidates=0; elapsed=226s
+  N06 complete; failed candidates=0; elapsed=227s
+  N02 complete; failed candidates=0; elapsed=229s
+  N05 complete; failed candidates=0; elapsed=230s
+  N11 complete; failed candidates=0; elapsed=232s
+  N08 complete; failed candidates=0; elapsed=234s
+  N12 complete; failed candidates=0; elapsed=235s
+  N14 complete; failed candidates=0; elapsed=235s
+  N09 complete; failed candidates=0; elapsed=235s
+  N13 complete; failed candidates=0; elapsed=235s
+  N10 complete; failed candidates=0; elapsed=236s
+  N15 complete; failed candidates=0; elapsed=393s
+  N18 complete; failed candidates=0; elapsed=396s
+  N19 complete; failed candidates=0; elapsed=396s
+  N17 complete; failed candidates=0; elapsed=397s
+  N20 complete; failed candidates=0; elapsed=397s
+  N22 complete; failed candidates=0; elapsed=401s
+  N21 complete; failed candidates=0; elapsed=401s
+  N23 complete; failed candidates=0; elapsed=401s
+  N16 complete; failed candidates=0; elapsed=402s
+  N24 complete; failed candidates=0; elapsed=402s
+  Locked N21 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 7/10 outer 4/5: 90 training, 20 validation; 24 preprocessing searches
+  N06 complete; failed candidates=0; elapsed=219s
+  N07 complete; failed candidates=0; elapsed=220s
+  N01 complete; failed candidates=0; elapsed=224s
+  N04 complete; failed candidates=0; elapsed=227s
+  N03 complete; failed candidates=0; elapsed=227s
+  N02 complete; failed candidates=0; elapsed=231s
+  N14 complete; failed candidates=0; elapsed=231s
+  N08 complete; failed candidates=0; elapsed=233s
+  N05 complete; failed candidates=0; elapsed=234s
+  N11 complete; failed candidates=0; elapsed=234s
+  N09 complete; failed candidates=0; elapsed=236s
+  N12 complete; failed candidates=0; elapsed=236s
+  N10 complete; failed candidates=0; elapsed=236s
+  N13 complete; failed candidates=0; elapsed=237s
+  N17 complete; failed candidates=0; elapsed=395s
+  N15 complete; failed candidates=0; elapsed=396s
+  N19 complete; failed candidates=0; elapsed=398s
+  N18 complete; failed candidates=0; elapsed=399s
+  N16 complete; failed candidates=0; elapsed=400s
+  N22 complete; failed candidates=0; elapsed=400s
+  N21 complete; failed candidates=0; elapsed=402s
+  N23 complete; failed candidates=0; elapsed=402s
+  N20 complete; failed candidates=0; elapsed=403s
+  N24 complete; failed candidates=0; elapsed=403s
+  Locked N13 RF + Ridge; outer predictions saved
+quantitative_with_zero105 repeat 7/10 outer 5/5: 85 training, 25 validation; 24 preprocessing searches
+  N01 complete; failed candidates=0; elapsed=213s
+  N03 complete; failed candidates=0; elapsed=224s
+  N06 complete; failed candidates=0; elapsed=226s
+  N07 complete; failed candidates=0; elapsed=229s
+  N02 complete; failed candidates=0; elapsed=230s
+  N09 complete; failed candidates=0; elapsed=231s
+  N04 complete; failed candidates=0; elapsed=231s
+  N08 complete; failed candidates=0; elapsed=235s
+  N14 complete; failed candidates=0; elapsed=235s
+  N11 complete; failed candidates=0; elapsed=235s
+  N05 complete; failed candidates=0; elapsed=236s
+  N10 complete; failed candidates=0; elapsed=237s
+  N12 complete; failed candidates=0; elapsed=237s
+  N13 complete; failed candidates=0; elapsed=238s
+  N15 complete; failed candidates=0; elapsed=388s
+  N17 complete; failed candidates=0; elapsed=394s
+  N20 complete; failed candidates=0; elapsed=395s
+  N19 complete; failed candidates=0; elapsed=396s
+  N22 complete; failed candidates=0; elapsed=398s
+  N18 complete; failed candidates=0; elapsed=398s
+  N16 complete; failed candidates=0; elapsed=401s
+  N23 complete; failed candidates=0; elapsed=401s
+  N21 complete; failed candidates=0; elapsed=401s
+  N24 complete; failed candidates=0; elapsed=402s
+  Locked N17 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 8/10 outer 1/5: 90 training, 20 validation; 24 preprocessing searches
+  N03 complete; failed candidates=0; elapsed=223s
+  N02 complete; failed candidates=0; elapsed=224s
+  N04 complete; failed candidates=0; elapsed=226s
+  N01 complete; failed candidates=0; elapsed=227s
+  N06 complete; failed candidates=0; elapsed=229s
+  N07 complete; failed candidates=0; elapsed=230s
+  N11 complete; failed candidates=0; elapsed=232s
+  N10 complete; failed candidates=0; elapsed=234s
+  N08 complete; failed candidates=0; elapsed=234s
+  N09 complete; failed candidates=0; elapsed=234s
+  N05 complete; failed candidates=0; elapsed=235s
+  N14 complete; failed candidates=0; elapsed=235s
+  N12 complete; failed candidates=0; elapsed=235s
+  N13 complete; failed candidates=0; elapsed=238s
+  N17 complete; failed candidates=0; elapsed=394s
+  N15 complete; failed candidates=0; elapsed=397s
+  N19 complete; failed candidates=0; elapsed=397s
+  N20 complete; failed candidates=0; elapsed=399s
+  N18 complete; failed candidates=0; elapsed=399s
+  N22 complete; failed candidates=0; elapsed=402s
+  N21 complete; failed candidates=0; elapsed=402s
+  N16 complete; failed candidates=0; elapsed=402s
+  N23 complete; failed candidates=0; elapsed=403s
+  N24 complete; failed candidates=0; elapsed=403s
+  Locked N09 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 8/10 outer 2/5: 85 training, 25 validation; 24 preprocessing searches
+  N06 complete; failed candidates=0; elapsed=220s
+  N04 complete; failed candidates=0; elapsed=223s
+  N03 complete; failed candidates=0; elapsed=225s
+  N02 complete; failed candidates=0; elapsed=226s
+  N07 complete; failed candidates=0; elapsed=227s
+  N01 complete; failed candidates=0; elapsed=229s
+  N05 complete; failed candidates=0; elapsed=229s
+  N14 complete; failed candidates=0; elapsed=232s
+  N12 complete; failed candidates=0; elapsed=233s
+  N11 complete; failed candidates=0; elapsed=233s
+  N08 complete; failed candidates=0; elapsed=234s
+  N09 complete; failed candidates=0; elapsed=234s
+  N13 complete; failed candidates=0; elapsed=235s
+  N10 complete; failed candidates=0; elapsed=235s
+  N17 complete; failed candidates=0; elapsed=394s
+  N15 complete; failed candidates=0; elapsed=395s
+  N21 complete; failed candidates=0; elapsed=398s
+  N19 complete; failed candidates=0; elapsed=399s
+  N16 complete; failed candidates=0; elapsed=399s
+  N18 complete; failed candidates=0; elapsed=399s
+  N22 complete; failed candidates=0; elapsed=400s
+  N20 complete; failed candidates=0; elapsed=400s
+  N23 complete; failed candidates=0; elapsed=400s
+  N24 complete; failed candidates=0; elapsed=401s
+  Locked N04 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 8/10 outer 3/5: 90 training, 20 validation; 24 preprocessing searches
+  N06 complete; failed candidates=0; elapsed=219s
+  N07 complete; failed candidates=0; elapsed=219s
+  N03 complete; failed candidates=0; elapsed=224s
+  N08 complete; failed candidates=0; elapsed=228s
+  N01 complete; failed candidates=0; elapsed=228s
+  N04 complete; failed candidates=0; elapsed=230s
+  N02 complete; failed candidates=0; elapsed=230s
+  N05 complete; failed candidates=0; elapsed=231s
+  N14 complete; failed candidates=0; elapsed=231s
+  N12 complete; failed candidates=0; elapsed=233s
+  N11 complete; failed candidates=0; elapsed=234s
+  N09 complete; failed candidates=0; elapsed=235s
+  N13 complete; failed candidates=0; elapsed=236s
+  N10 complete; failed candidates=0; elapsed=237s
+  N15 complete; failed candidates=0; elapsed=393s
+  N18 complete; failed candidates=0; elapsed=398s
+  N17 complete; failed candidates=0; elapsed=398s
+  N16 complete; failed candidates=0; elapsed=399s
+  N20 complete; failed candidates=0; elapsed=400s
+  N22 complete; failed candidates=0; elapsed=401s
+  N19 complete; failed candidates=0; elapsed=402s
+  N23 complete; failed candidates=0; elapsed=402s
+  N21 complete; failed candidates=0; elapsed=403s
+  N24 complete; failed candidates=0; elapsed=403s
+  Locked N09 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 8/10 outer 4/5: 85 training, 25 validation; 24 preprocessing searches
+  N03 complete; failed candidates=0; elapsed=221s
+  N01 complete; failed candidates=0; elapsed=221s
+  N07 complete; failed candidates=0; elapsed=226s
+  N02 complete; failed candidates=0; elapsed=228s
+  N06 complete; failed candidates=0; elapsed=229s
+  N04 complete; failed candidates=0; elapsed=230s
+  N08 complete; failed candidates=0; elapsed=233s
+  N09 complete; failed candidates=0; elapsed=234s
+  N14 complete; failed candidates=0; elapsed=234s
+  N05 complete; failed candidates=0; elapsed=234s
+  N10 complete; failed candidates=0; elapsed=235s
+  N12 complete; failed candidates=0; elapsed=235s
+  N11 complete; failed candidates=0; elapsed=235s
+  N13 complete; failed candidates=0; elapsed=236s
+  N17 complete; failed candidates=0; elapsed=394s
+  N19 complete; failed candidates=0; elapsed=397s
+  N15 complete; failed candidates=0; elapsed=397s
+  N18 complete; failed candidates=0; elapsed=398s
+  N16 complete; failed candidates=0; elapsed=398s
+  N22 complete; failed candidates=0; elapsed=399s
+  N20 complete; failed candidates=0; elapsed=399s
+  N23 complete; failed candidates=0; elapsed=401s
+  N21 complete; failed candidates=0; elapsed=401s
+  N24 complete; failed candidates=0; elapsed=402s
+  Locked N04 SVR + RF; outer predictions saved
+quantitative_with_zero105 repeat 8/10 outer 5/5: 90 training, 20 validation; 24 preprocessing searches
+  N03 complete; failed candidates=0; elapsed=220s
+  N01 complete; failed candidates=0; elapsed=222s
+  N06 complete; failed candidates=0; elapsed=224s
+  N04 complete; failed candidates=0; elapsed=225s
+  N02 complete; failed candidates=0; elapsed=226s
+  N07 complete; failed candidates=0; elapsed=226s
+  N11 complete; failed candidates=0; elapsed=228s
+  N08 complete; failed candidates=0; elapsed=231s
+  N14 complete; failed candidates=0; elapsed=232s
+  N12 complete; failed candidates=0; elapsed=232s
+  N05 complete; failed candidates=0; elapsed=233s
+  N09 complete; failed candidates=0; elapsed=233s
+  N10 complete; failed candidates=0; elapsed=233s
+  N13 complete; failed candidates=0; elapsed=234s
+  N19 complete; failed candidates=0; elapsed=394s
+  N17 complete; failed candidates=0; elapsed=395s
+  N15 complete; failed candidates=0; elapsed=396s
+  N18 complete; failed candidates=0; elapsed=396s
+  N20 complete; failed candidates=0; elapsed=397s
+  N22 complete; failed candidates=0; elapsed=399s
+  N21 complete; failed candidates=0; elapsed=399s
+  N16 complete; failed candidates=0; elapsed=400s
+  N23 complete; failed candidates=0; elapsed=400s
+  N24 complete; failed candidates=0; elapsed=401s
+  Locked N09 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 9/10 outer 1/5: 85 training, 25 validation; 24 preprocessing searches
+  N03 complete; failed candidates=0; elapsed=223s
+  N01 complete; failed candidates=0; elapsed=227s
+  N04 complete; failed candidates=0; elapsed=228s
+  N06 complete; failed candidates=0; elapsed=229s
+  N07 complete; failed candidates=0; elapsed=230s
+  N02 complete; failed candidates=0; elapsed=230s
+  N05 complete; failed candidates=0; elapsed=234s
+  N11 complete; failed candidates=0; elapsed=234s
+  N08 complete; failed candidates=0; elapsed=234s
+  N14 complete; failed candidates=0; elapsed=235s
+  N12 complete; failed candidates=0; elapsed=235s
+  N10 complete; failed candidates=0; elapsed=235s
+  N09 complete; failed candidates=0; elapsed=236s
+  N13 complete; failed candidates=0; elapsed=236s
+  N17 complete; failed candidates=0; elapsed=393s
+  N18 complete; failed candidates=0; elapsed=397s
+  N19 complete; failed candidates=0; elapsed=398s
+  N15 complete; failed candidates=0; elapsed=398s
+  N20 complete; failed candidates=0; elapsed=398s
+  N21 complete; failed candidates=0; elapsed=401s
+  N16 complete; failed candidates=0; elapsed=401s
+  N23 complete; failed candidates=0; elapsed=402s
+  N22 complete; failed candidates=0; elapsed=402s
+  N24 complete; failed candidates=0; elapsed=402s
+  Locked N02 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 9/10 outer 2/5: 90 training, 20 validation; 24 preprocessing searches
+  N06 complete; failed candidates=0; elapsed=224s
+  N01 complete; failed candidates=0; elapsed=224s
+  N03 complete; failed candidates=0; elapsed=226s
+  N04 complete; failed candidates=0; elapsed=229s
+  N07 complete; failed candidates=0; elapsed=229s
+  N02 complete; failed candidates=0; elapsed=231s
+  N05 complete; failed candidates=0; elapsed=233s
+  N12 complete; failed candidates=0; elapsed=234s
+  N08 complete; failed candidates=0; elapsed=235s
+  N11 complete; failed candidates=0; elapsed=236s
+  N13 complete; failed candidates=0; elapsed=236s
+  N14 complete; failed candidates=0; elapsed=236s
+  N09 complete; failed candidates=0; elapsed=237s
+  N10 complete; failed candidates=0; elapsed=237s
+  N15 complete; failed candidates=0; elapsed=397s
+  N17 complete; failed candidates=0; elapsed=398s
+  N19 complete; failed candidates=0; elapsed=400s
+  N18 complete; failed candidates=0; elapsed=401s
+  N20 complete; failed candidates=0; elapsed=402s
+  N22 complete; failed candidates=0; elapsed=402s
+  N16 complete; failed candidates=0; elapsed=403s
+  N21 complete; failed candidates=0; elapsed=403s
+  N23 complete; failed candidates=0; elapsed=403s
+  N24 complete; failed candidates=0; elapsed=403s
+  Locked N07 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 9/10 outer 3/5: 90 training, 20 validation; 24 preprocessing searches
+  N07 complete; failed candidates=0; elapsed=219s
+  N06 complete; failed candidates=0; elapsed=227s
+  N02 complete; failed candidates=0; elapsed=229s
+  N03 complete; failed candidates=0; elapsed=230s
+  N04 complete; failed candidates=0; elapsed=232s
+  N01 complete; failed candidates=0; elapsed=233s
+  N08 complete; failed candidates=0; elapsed=235s
+  N14 complete; failed candidates=0; elapsed=235s
+  N05 complete; failed candidates=0; elapsed=236s
+  N11 complete; failed candidates=0; elapsed=237s
+  N09 complete; failed candidates=0; elapsed=237s
+  N12 complete; failed candidates=0; elapsed=238s
+  N10 complete; failed candidates=0; elapsed=238s
+  N13 complete; failed candidates=0; elapsed=239s
+  N15 complete; failed candidates=0; elapsed=389s
+  N17 complete; failed candidates=0; elapsed=393s
+  N18 complete; failed candidates=0; elapsed=398s
+  N20 complete; failed candidates=0; elapsed=398s
+  N22 complete; failed candidates=0; elapsed=398s
+  N19 complete; failed candidates=0; elapsed=399s
+  N16 complete; failed candidates=0; elapsed=400s
+  N21 complete; failed candidates=0; elapsed=400s
+  N23 complete; failed candidates=0; elapsed=400s
+  N24 complete; failed candidates=0; elapsed=401s
+  Locked N18 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 9/10 outer 4/5: 85 training, 25 validation; 24 preprocessing searches
+  N01 complete; failed candidates=0; elapsed=214s
+  N03 complete; failed candidates=0; elapsed=223s
+  N07 complete; failed candidates=0; elapsed=226s
+  N06 complete; failed candidates=0; elapsed=226s
+  N04 complete; failed candidates=0; elapsed=228s
+  N02 complete; failed candidates=0; elapsed=229s
+  N08 complete; failed candidates=0; elapsed=230s
+  N09 complete; failed candidates=0; elapsed=232s
+  N11 complete; failed candidates=0; elapsed=232s
+  N10 complete; failed candidates=0; elapsed=232s
+  N12 complete; failed candidates=0; elapsed=233s
+  N05 complete; failed candidates=0; elapsed=233s
+  N14 complete; failed candidates=0; elapsed=233s
+  N13 complete; failed candidates=0; elapsed=234s
+  N17 complete; failed candidates=0; elapsed=390s
+  N15 complete; failed candidates=0; elapsed=391s
+  N20 complete; failed candidates=0; elapsed=394s
+  N19 complete; failed candidates=0; elapsed=395s
+  N18 complete; failed candidates=0; elapsed=395s
+  N23 complete; failed candidates=0; elapsed=397s
+  N22 complete; failed candidates=0; elapsed=397s
+  N21 complete; failed candidates=0; elapsed=398s
+  N16 complete; failed candidates=0; elapsed=398s
+  N24 complete; failed candidates=0; elapsed=399s
+  Locked N01 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 9/10 outer 5/5: 90 training, 20 validation; 24 preprocessing searches
+  N02 complete; failed candidates=0; elapsed=224s
+  N04 complete; failed candidates=0; elapsed=226s
+  N06 complete; failed candidates=0; elapsed=233s
+  N01 complete; failed candidates=0; elapsed=233s
+  N03 complete; failed candidates=0; elapsed=233s
+  N11 complete; failed candidates=0; elapsed=235s
+  N07 complete; failed candidates=0; elapsed=235s
+  N10 complete; failed candidates=0; elapsed=238s
+  N08 complete; failed candidates=0; elapsed=238s
+  N14 complete; failed candidates=0; elapsed=238s
+  N12 complete; failed candidates=0; elapsed=239s
+  N05 complete; failed candidates=0; elapsed=239s
+  N09 complete; failed candidates=0; elapsed=239s
+  N13 complete; failed candidates=0; elapsed=240s
+  N15 complete; failed candidates=0; elapsed=396s
+  N17 complete; failed candidates=0; elapsed=400s
+  N19 complete; failed candidates=0; elapsed=400s
+  N20 complete; failed candidates=0; elapsed=401s
+  N22 complete; failed candidates=0; elapsed=401s
+  N18 complete; failed candidates=0; elapsed=401s
+  N16 complete; failed candidates=0; elapsed=402s
+  N23 complete; failed candidates=0; elapsed=404s
+  N21 complete; failed candidates=0; elapsed=404s
+  N24 complete; failed candidates=0; elapsed=405s
+  Locked N01 PLSR + Equal_average; outer predictions saved
+quantitative_with_zero105 repeat 10/10 outer 1/5: 90 training, 20 validation; 24 preprocessing searches
+  N06 complete; failed candidates=0; elapsed=217s
+  N04 complete; failed candidates=0; elapsed=226s
+  N03 complete; failed candidates=0; elapsed=228s
+  N07 complete; failed candidates=0; elapsed=231s
+  N02 complete; failed candidates=0; elapsed=231s
+  N01 complete; failed candidates=0; elapsed=233s
+  N08 complete; failed candidates=0; elapsed=233s
+  N11 complete; failed candidates=0; elapsed=235s
+  N05 complete; failed candidates=0; elapsed=235s
+  N12 complete; failed candidates=0; elapsed=236s
+  N14 complete; failed candidates=0; elapsed=236s
+  N09 complete; failed candidates=0; elapsed=236s
+  N10 complete; failed candidates=0; elapsed=237s
+  N13 complete; failed candidates=0; elapsed=237s
+  N15 complete; failed candidates=0; elapsed=392s
+  N17 complete; failed candidates=0; elapsed=396s
+  N23 complete; failed candidates=0; elapsed=399s
+  N18 complete; failed candidates=0; elapsed=399s
+  N20 complete; failed candidates=0; elapsed=400s
+  N22 complete; failed candidates=0; elapsed=400s
+  N19 complete; failed candidates=0; elapsed=400s
+  N16 complete; failed candidates=0; elapsed=401s
+  N21 complete; failed candidates=0; elapsed=401s
+  N24 complete; failed candidates=0; elapsed=402s
+  Locked N10 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 10/10 outer 2/5: 90 training, 20 validation; 24 preprocessing searches
+  N07 complete; failed candidates=0; elapsed=217s
+  N06 complete; failed candidates=0; elapsed=221s
+  N01 complete; failed candidates=0; elapsed=225s
+  N03 complete; failed candidates=0; elapsed=225s
+  N04 complete; failed candidates=0; elapsed=227s
+  N02 complete; failed candidates=0; elapsed=229s
+  N08 complete; failed candidates=0; elapsed=231s
+  N14 complete; failed candidates=0; elapsed=231s
+  N05 complete; failed candidates=0; elapsed=231s
+  N11 complete; failed candidates=0; elapsed=233s
+  N09 complete; failed candidates=0; elapsed=233s
+  N12 complete; failed candidates=0; elapsed=234s
+  N13 complete; failed candidates=0; elapsed=234s
+  N10 complete; failed candidates=0; elapsed=235s
+  N15 complete; failed candidates=0; elapsed=388s
+  N19 complete; failed candidates=0; elapsed=396s
+  N17 complete; failed candidates=0; elapsed=396s
+  N22 complete; failed candidates=0; elapsed=397s
+  N18 complete; failed candidates=0; elapsed=398s
+  N16 complete; failed candidates=0; elapsed=398s
+  N20 complete; failed candidates=0; elapsed=399s
+  N23 complete; failed candidates=0; elapsed=399s
+  N21 complete; failed candidates=0; elapsed=400s
+  N24 complete; failed candidates=0; elapsed=401s
+  Locked N20 PLSR + PLSR; outer predictions saved
+quantitative_with_zero105 repeat 10/10 outer 3/5: 85 training, 25 validation; 24 preprocessing searches
+  N02 complete; failed candidates=0; elapsed=220s
+  N01 complete; failed candidates=0; elapsed=222s
+  N06 complete; failed candidates=0; elapsed=226s
+  N03 complete; failed candidates=0; elapsed=226s
+  N07 complete; failed candidates=0; elapsed=227s
+  N04 complete; failed candidates=0; elapsed=228s
+  N08 complete; failed candidates=0; elapsed=230s
+  N09 complete; failed candidates=0; elapsed=232s
+  N10 complete; failed candidates=0; elapsed=233s
+  N11 complete; failed candidates=0; elapsed=233s
+  N14 complete; failed candidates=0; elapsed=233s
+  N05 complete; failed candidates=0; elapsed=233s
+  N12 complete; failed candidates=0; elapsed=233s
+  N13 complete; failed candidates=0; elapsed=234s
+  N17 complete; failed candidates=0; elapsed=392s
+  N15 complete; failed candidates=0; elapsed=395s
+  N19 complete; failed candidates=0; elapsed=395s
+  N18 complete; failed candidates=0; elapsed=396s
+  N20 complete; failed candidates=0; elapsed=396s
+  N16 complete; failed candidates=0; elapsed=397s
+  N22 complete; failed candidates=0; elapsed=398s
+  N21 complete; failed candidates=0; elapsed=398s
+  N23 complete; failed candidates=0; elapsed=399s
+  N24 complete; failed candidates=0; elapsed=399s
+  Locked N20 PLSR + PLSR; outer predictions saved
+quantitative_with_zero105 repeat 10/10 outer 4/5: 85 training, 25 validation; 24 preprocessing searches
+  N03 complete; failed candidates=0; elapsed=218s
+  N06 complete; failed candidates=0; elapsed=225s
+  N01 complete; failed candidates=0; elapsed=228s
+  N04 complete; failed candidates=0; elapsed=228s
+  N07 complete; failed candidates=0; elapsed=228s
+  N02 complete; failed candidates=0; elapsed=229s
+  N08 complete; failed candidates=0; elapsed=233s
+  N10 complete; failed candidates=0; elapsed=234s
+  N11 complete; failed candidates=0; elapsed=234s
+  N14 complete; failed candidates=0; elapsed=234s
+  N12 complete; failed candidates=0; elapsed=234s
+  N05 complete; failed candidates=0; elapsed=235s
+  N09 complete; failed candidates=0; elapsed=236s
+  N13 complete; failed candidates=0; elapsed=237s
+  N15 complete; failed candidates=0; elapsed=394s
+  N19 complete; failed candidates=0; elapsed=397s
+  N18 complete; failed candidates=0; elapsed=398s
+  N20 complete; failed candidates=0; elapsed=399s
+  N22 complete; failed candidates=0; elapsed=399s
+  N17 complete; failed candidates=0; elapsed=400s
+  N23 complete; failed candidates=0; elapsed=401s
+  N16 complete; failed candidates=0; elapsed=402s
+  N21 complete; failed candidates=0; elapsed=403s
+  N24 complete; failed candidates=0; elapsed=403s
+  Locked N17 PLSR + RF; outer predictions saved
+quantitative_with_zero105 repeat 10/10 outer 5/5: 90 training, 20 validation; 24 preprocessing searches
+  N01 complete; failed candidates=0; elapsed=224s
+  N04 complete; failed candidates=0; elapsed=225s
+  N03 complete; failed candidates=0; elapsed=225s
+  N07 complete; failed candidates=0; elapsed=226s
+  N06 complete; failed candidates=0; elapsed=228s
+  N02 complete; failed candidates=0; elapsed=232s
+  N05 complete; failed candidates=0; elapsed=234s
+  N14 complete; failed candidates=0; elapsed=235s
+  N12 complete; failed candidates=0; elapsed=235s
+  N09 complete; failed candidates=0; elapsed=235s
+  N11 complete; failed candidates=0; elapsed=235s
+  N08 complete; failed candidates=0; elapsed=235s
+  N10 complete; failed candidates=0; elapsed=236s
+  N13 complete; failed candidates=0; elapsed=236s
+  N18 complete; failed candidates=0; elapsed=395s
+  N17 complete; failed candidates=0; elapsed=397s
+  N19 complete; failed candidates=0; elapsed=400s
+  N20 complete; failed candidates=0; elapsed=402s
+  N16 complete; failed candidates=0; elapsed=402s
+  N23 complete; failed candidates=0; elapsed=402s
+  N15 complete; failed candidates=0; elapsed=403s
+  N22 complete; failed candidates=0; elapsed=403s
+  N21 complete; failed candidates=0; elapsed=403s
+  N24 complete; failed candidates=0; elapsed=404s
+  Locked N10 PLSR + Equal_average; outer predictions saved
+Completed fusion_stack quantitative_with_zero105: runs_repeats\quantitative_with_zero105\fusion_stack
+=== repeats collected 2026-11-11 11:51:56
+=== permutation 2026-11-11 11:51:56
+perm 1/99 fold 1: 397s  N03 PLSR + PLSR
+perm 1/99 fold 2: 402s  N03 PLSR + RF
+perm 1/99 fold 3: 402s  N01 RF + RF
+perm 1/99 fold 4: 400s  N06 PLSR + Equal_average
+perm 1/99 fold 5: 402s  N15 RF + Adaptive_weighted_average
+perm 2/99 fold 1: 402s  N13 PLSR + RF
+perm 2/99 fold 2: 401s  N03 PLSR + RF
+perm 2/99 fold 3: 398s  N22 PLSR + RF
+perm 2/99 fold 4: 403s  N07 RF + Ridge
+perm 2/99 fold 5: 398s  N05 PLSR + Ridge
+perm 3/99 fold 1: 402s  N03 SVR + RF
+perm 3/99 fold 2: 404s  N02 RF + PLSR
+perm 3/99 fold 3: 401s  N19 RF + Adaptive_weighted_average
+perm 3/99 fold 4: 405s  N06 RF + Adaptive_weighted_average
+perm 3/99 fold 5: 405s  N01 RF + PLSR
+perm 4/99 fold 1: 404s  N18 RF + PLSR
+perm 4/99 fold 2: 400s  N07 RF + RF
+perm 4/99 fold 3: 396s  N06 PLSR + PLSR
+perm 4/99 fold 4: 402s  N10 RF + RF
+perm 4/99 fold 5: 399s  N02 PLSR + Adaptive_weighted_average
+perm 5/99 fold 1: 398s  N23 SVR + PLSR
+perm 5/99 fold 2: 405s  N06 RF + Ridge
+perm 5/99 fold 3: 398s  N24 SVR + RF
+perm 5/99 fold 4: 398s  N20 SVR + Ridge
+perm 5/99 fold 5: 396s  N24 SVR + RF
+perm 6/99 fold 1: 404s  N01 RF + Equal_average
+perm 6/99 fold 2: 402s  N03 RF + PLSR
+perm 6/99 fold 3: 399s  N22 PLSR + Ridge
+perm 6/99 fold 4: 399s  N03 PLSR + Ridge
+perm 6/99 fold 5: 401s  N10 SVR + RF
+perm 7/99 fold 1: 398s  N11 SVR + RF
+perm 7/99 fold 2: 398s  N17 PLSR + PLSR
+perm 7/99 fold 3: 407s  N05 RF + Ridge
+perm 7/99 fold 4: 400s  N19 PLSR + Adaptive_weighted_average
+perm 7/99 fold 5: 401s  N22 PLSR + PLSR
+perm 8/99 fold 1: 400s  N03 PLSR + Ridge
+perm 8/99 fold 2: 402s  N12 SVR + RF
+perm 8/99 fold 3: 406s  N15 RF + Equal_average
+perm 8/99 fold 4: 411s  N22 RF + RF
+perm 8/99 fold 5: 403s  N14 RF + Equal_average
+perm 9/99 fold 1: 403s  N24 PLSR + RF
+perm 9/99 fold 2: 406s  N03 PLSR + RF
+perm 9/99 fold 3: 401s  N06 SVR + RF
+perm 9/99 fold 4: 400s  N14 RF + RF
+perm 9/99 fold 5: 399s  N02 SVR + Ridge
+perm 10/99 fold 1: 404s  N07 RF + PLSR
+perm 10/99 fold 2: 410s  N23 RF + RF
+perm 10/99 fold 3: 398s  N05 SVR + PLSR
+perm 10/99 fold 4: 398s  N22 PLSR + Equal_average
+perm 10/99 fold 5: 401s  N02 RF + Equal_average
+perm 11/99 fold 1: 403s  N16 PLSR + Ridge
+perm 11/99 fold 2: 401s  N21 PLSR + RF
+perm 11/99 fold 3: 398s  N02 SVR + RF
+perm 11/99 fold 4: 469s  N12 PLSR + RF
+perm 11/99 fold 5: 375s  N08 RF + RF
+perm 12/99 fold 1: 349s  N11 PLSR + RF
+perm 12/99 fold 2: 404s  N17 RF + Ridge
+perm 12/99 fold 3: 402s  N01 PLSR + Equal_average
+perm 12/99 fold 4: 371s  N05 SVR + Ridge
+perm 12/99 fold 5: 392s  N05 RF + Adaptive_weighted_average
+perm 13/99 fold 1: 424s  N20 RF + Ridge
+perm 13/99 fold 2: 357s  N12 SVR + RF
+perm 13/99 fold 3: 398s  N14 RF + Adaptive_weighted_average
+perm 13/99 fold 4: 402s  N01 PLSR + PLSR
+perm 13/99 fold 5: 403s  N23 PLSR + Adaptive_weighted_average
+perm 14/99 fold 1: 406s  N01 RF + Ridge
+perm 14/99 fold 2: 392s  N05 SVR + RF
+perm 14/99 fold 3: 388s  N07 PLSR + PLSR
+perm 14/99 fold 4: 414s  N12 RF + Ridge
+perm 14/99 fold 5: 403s  N01 PLSR + RF
+perm 15/99 fold 1: 404s  N23 PLSR + Ridge
+perm 15/99 fold 2: 406s  N24 RF + Adaptive_weighted_average
+perm 15/99 fold 3: 401s  N18 PLSR + RF
+perm 15/99 fold 4: 409s  N17 RF + Equal_average
+perm 15/99 fold 5: 403s  N08 PLSR + Equal_average
+perm 16/99 fold 1: 406s  N01 RF + Equal_average
+perm 16/99 fold 2: 409s  N18 RF + PLSR
+perm 16/99 fold 3: 396s  N08 PLSR + Adaptive_weighted_average
+perm 16/99 fold 4: 393s  N17 RF + RF
+perm 16/99 fold 5: 338s  N15 PLSR + PLSR
+perm 17/99 fold 1: 461s  N02 PLSR + RF
+perm 17/99 fold 2: 548s  N02 RF + RF
+perm 17/99 fold 3: 545s  N06 PLSR + Adaptive_weighted_average
+perm 17/99 fold 4: 560s  N10 RF + Ridge
+perm 17/99 fold 5: 550s  N06 RF + PLSR
+perm 18/99 fold 1: 483s  N10 RF + Adaptive_weighted_average
+perm 18/99 fold 2: 411s  N21 RF + PLSR
+perm 18/99 fold 3: 346s  N13 RF + RF
+perm 18/99 fold 4: 347s  N07 RF + PLSR
+perm 18/99 fold 5: 345s  N15 PLSR + RF
+perm 19/99 fold 1: 343s  N17 PLSR + RF
+perm 19/99 fold 2: 344s  N24 PLSR + Equal_average
+perm 19/99 fold 3: 347s  N20 RF + Ridge
+perm 19/99 fold 4: 348s  N14 RF + Adaptive_weighted_average
+perm 19/99 fold 5: 344s  N15 PLSR + PLSR
+perm 20/99 fold 1: 341s  N15 SVR + RF
+perm 20/99 fold 2: 344s  N04 SVR + Ridge
+perm 20/99 fold 3: 349s  N17 RF + RF
+perm 20/99 fold 4: 343s  N21 SVR + Ridge
+perm 20/99 fold 5: 340s  N12 PLSR + Equal_average
+perm 21/99 fold 1: 346s  N19 RF + Equal_average
+perm 21/99 fold 2: 343s  N17 SVR + PLSR
+perm 21/99 fold 3: 347s  N08 RF + Adaptive_weighted_average
+perm 21/99 fold 4: 342s  N01 SVR + Ridge
+perm 21/99 fold 5: 346s  N06 RF + Equal_average
+perm 22/99 fold 1: 346s  N04 RF + Ridge
+perm 22/99 fold 2: 346s  N22 RF + Equal_average
+perm 22/99 fold 3: 342s  N19 PLSR + RF
+perm 22/99 fold 4: 343s  N05 PLSR + Ridge
+perm 22/99 fold 5: 347s  N20 RF + RF
+perm 23/99 fold 1: 347s  N01 RF + Adaptive_weighted_average
+perm 23/99 fold 2: 345s  N22 RF + Equal_average
+perm 23/99 fold 3: 343s  N07 SVR + RF
+perm 23/99 fold 4: 347s  N21 RF + Equal_average
+perm 23/99 fold 5: 343s  N01 SVR + PLSR
+perm 24/99 fold 1: 342s  N14 SVR + PLSR
+perm 24/99 fold 2: 343s  N22 PLSR + Ridge
+perm 24/99 fold 3: 349s  N08 RF + Equal_average
+perm 24/99 fold 4: 347s  N18 RF + Ridge
+perm 24/99 fold 5: 345s  N09 RF + Ridge
+perm 25/99 fold 1: 341s  N23 PLSR + Ridge
+perm 25/99 fold 2: 343s  N02 PLSR + Equal_average
+perm 25/99 fold 3: 346s  N09 PLSR + PLSR
+perm 25/99 fold 4: 348s  N05 PLSR + Adaptive_weighted_average
+perm 25/99 fold 5: 344s  N02 SVR + Ridge
+perm 26/99 fold 1: 351s  N16 RF + RF
+perm 26/99 fold 2: 343s  N17 PLSR + PLSR
+perm 26/99 fold 3: 346s  N13 RF + Adaptive_weighted_average
+perm 26/99 fold 4: 347s  N05 RF + Equal_average
+perm 26/99 fold 5: 342s  N08 PLSR + PLSR
+perm 27/99 fold 1: 342s  N01 PLSR + Equal_average
+perm 27/99 fold 2: 340s  N03 PLSR + Ridge
+perm 27/99 fold 3: 343s  N21 SVR + RF
+perm 27/99 fold 4: 343s  N06 PLSR + PLSR
+perm 27/99 fold 5: 347s  N17 RF + Equal_average
+perm 28/99 fold 1: 342s  N12 SVR + RF
+perm 28/99 fold 2: 340s  N13 PLSR + Equal_average
+perm 28/99 fold 3: 346s  N02 RF + Ridge
+perm 28/99 fold 4: 342s  N08 PLSR + RF
+perm 28/99 fold 5: 341s  N17 SVR + RF
+perm 29/99 fold 1: 345s  N17 RF + PLSR
+perm 29/99 fold 2: 341s  N07 PLSR + PLSR
+perm 29/99 fold 3: 343s  N24 SVR + RF
+perm 29/99 fold 4: 346s  N19 RF + RF
+perm 29/99 fold 5: 342s  N08 SVR + RF
+perm 30/99 fold 1: 342s  N17 SVR + RF
+perm 30/99 fold 2: 346s  N22 RF + RF
+perm 30/99 fold 3: 343s  N14 SVR + RF
+perm 30/99 fold 4: 345s  N08 RF + Equal_average
+perm 30/99 fold 5: 342s  N10 PLSR + PLSR
+perm 31/99 fold 1: 345s  N02 RF + Ridge
+perm 31/99 fold 2: 341s  N20 SVR + PLSR
+perm 31/99 fold 3: 346s  N01 RF + Equal_average
+perm 31/99 fold 4: 342s  N02 SVR + PLSR
+perm 31/99 fold 5: 343s  N08 PLSR + Ridge
+perm 32/99 fold 1: 347s  N06 RF + Equal_average
+perm 32/99 fold 2: 342s  N19 PLSR + RF
+perm 32/99 fold 3: 347s  N01 RF + Equal_average
+perm 32/99 fold 4: 343s  N18 PLSR + PLSR
+perm 32/99 fold 5: 342s  N19 PLSR + PLSR
+perm 33/99 fold 1: 341s  N09 PLSR + Adaptive_weighted_average
+perm 33/99 fold 2: 346s  N02 RF + RF
+perm 33/99 fold 3: 342s  N14 PLSR + RF
+perm 33/99 fold 4: 346s  N19 RF + Adaptive_weighted_average
+perm 33/99 fold 5: 341s  N11 PLSR + Adaptive_weighted_average
+perm 34/99 fold 1: 342s  N05 PLSR + PLSR
+perm 34/99 fold 2: 342s  N01 SVR + PLSR
+perm 34/99 fold 3: 342s  N06 PLSR + Ridge
+perm 34/99 fold 4: 345s  N20 RF + Ridge
+perm 34/99 fold 5: 343s  N18 PLSR + Ridge
+perm 35/99 fold 1: 380s  N18 RF + RF
+perm 35/99 fold 2: 409s  N03 RF + Adaptive_weighted_average
+perm 35/99 fold 3: 365s  N17 PLSR + Equal_average
+perm 35/99 fold 4: 340s  N07 SVR + RF
+perm 35/99 fold 5: 345s  N02 SVR + PLSR
+perm 36/99 fold 1: 340s  N12 SVR + RF
+perm 36/99 fold 2: 345s  N07 RF + Ridge
+perm 36/99 fold 3: 344s  N05 PLSR + Adaptive_weighted_average
+perm 36/99 fold 4: 347s  N16 PLSR + Adaptive_weighted_average
+perm 36/99 fold 5: 345s  N19 SVR + RF
+perm 37/99 fold 1: 346s  N09 RF + Equal_average
+perm 37/99 fold 2: 375s  N06 RF + PLSR
+perm 37/99 fold 3: 405s  N22 PLSR + PLSR
+perm 37/99 fold 4: 543s  N09 RF + Equal_average
+perm 37/99 fold 5: 385s  N01 SVR + Ridge
+perm 38/99 fold 1: 364s  N24 RF + RF
+perm 38/99 fold 2: 386s  N13 PLSR + Ridge
+perm 38/99 fold 3: 367s  N24 PLSR + Equal_average
+perm 38/99 fold 4: 363s  N05 SVR + RF
+perm 38/99 fold 5: 394s  N23 RF + PLSR
+perm 39/99 fold 1: 503s  N05 RF + Equal_average
+perm 39/99 fold 2: 546s  N22 PLSR + Adaptive_weighted_average
+perm 39/99 fold 3: 389s  N08 PLSR + Adaptive_weighted_average
+perm 39/99 fold 4: 587s  N14 RF + RF
+perm 39/99 fold 5: 426s  N03 RF + Adaptive_weighted_average
+perm 40/99 fold 1: 422s  N07 RF + Ridge
+perm 40/99 fold 2: 414s  N03 RF + RF
+perm 40/99 fold 3: 404s  N13 RF + RF
+perm 40/99 fold 4: 394s  N06 PLSR + RF
+perm 40/99 fold 5: 400s  N21 RF + RF
+perm 41/99 fold 1: 400s  N06 SVR + RF
+perm 41/99 fold 2: 396s  N04 SVR + Ridge
+perm 41/99 fold 3: 395s  N18 PLSR + Ridge
+perm 41/99 fold 4: 396s  N14 PLSR + Ridge
+perm 41/99 fold 5: 403s  N10 RF + PLSR
+perm 42/99 fold 1: 399s  N16 PLSR + Ridge
+perm 42/99 fold 2: 397s  N10 PLSR + Equal_average
+perm 42/99 fold 3: 397s  N07 PLSR + PLSR
+perm 42/99 fold 4: 397s  N04 PLSR + Ridge
+perm 42/99 fold 5: 399s  N01 SVR + Ridge
+perm 43/99 fold 1: 410s  N01 RF + Ridge
+perm 43/99 fold 2: 422s  N17 SVR + RF
+perm 43/99 fold 3: 430s  N20 RF + RF
+perm 43/99 fold 4: 439s  N02 PLSR + Equal_average
+perm 43/99 fold 5: 443s  N05 RF + Ridge
+perm 44/99 fold 1: 418s  N06 RF + RF
+perm 44/99 fold 2: 421s  N06 PLSR + Adaptive_weighted_average
+perm 44/99 fold 3: 422s  N06 PLSR + RF
+perm 44/99 fold 4: 413s  N04 SVR + PLSR
+perm 44/99 fold 5: 408s  N08 RF + Equal_average
+perm 45/99 fold 1: 396s  N16 PLSR + Adaptive_weighted_average
+perm 45/99 fold 2: 399s  N09 RF + RF
+perm 45/99 fold 3: 404s  N23 RF + Ridge
+perm 45/99 fold 4: 394s  N05 PLSR + RF
+perm 45/99 fold 5: 399s  N12 RF + RF
+perm 46/99 fold 1: 399s  N12 RF + RF
+perm 46/99 fold 2: 401s  N02 RF + Ridge
+perm 46/99 fold 3: 397s  N18 RF + Equal_average
+perm 46/99 fold 4: 400s  N04 RF + Equal_average
+perm 46/99 fold 5: 414s  N06 PLSR + RF
+perm 47/99 fold 1: 424s  N14 PLSR + RF
+perm 47/99 fold 2: 409s  N18 RF + Ridge
+perm 47/99 fold 3: 396s  N05 SVR + Ridge
+perm 47/99 fold 4: 396s  N01 PLSR + RF
+perm 47/99 fold 5: 399s  N16 RF + RF
+perm 48/99 fold 1: 401s  N08 RF + RF
+perm 48/99 fold 2: 399s  N01 RF + Ridge
+perm 48/99 fold 3: 401s  N16 RF + Adaptive_weighted_average
+perm 48/99 fold 4: 396s  N14 PLSR + RF
+perm 48/99 fold 5: 400s  N07 RF + Ridge
+perm 49/99 fold 1: 398s  N24 SVR + Ridge
+perm 49/99 fold 2: 395s  N10 PLSR + Equal_average
+perm 49/99 fold 3: 394s  N10 PLSR + Equal_average
+perm 49/99 fold 4: 395s  N17 PLSR + Equal_average
+perm 49/99 fold 5: 402s  N08 RF + Adaptive_weighted_average
+perm 50/99 fold 1: 395s  N02 PLSR + Adaptive_weighted_average
+perm 50/99 fold 2: 399s  N08 RF + Equal_average
+perm 50/99 fold 3: 398s  N05 RF + Equal_average
+perm 50/99 fold 4: 395s  N07 PLSR + PLSR
+perm 50/99 fold 5: 398s  N10 SVR + RF
+perm 51/99 fold 1: 398s  N12 RF + RF
+perm 51/99 fold 2: 394s  N14 PLSR + RF
+perm 51/99 fold 3: 395s  N20 SVR + PLSR
+perm 51/99 fold 4: 403s  N03 RF + RF
+perm 51/99 fold 5: 394s  N02 PLSR + PLSR
+perm 52/99 fold 1: 399s  N21 RF + RF
+perm 52/99 fold 2: 395s  N18 PLSR + RF
+perm 52/99 fold 3: 399s  N12 RF + RF
+perm 52/99 fold 4: 398s  N20 PLSR + RF
+perm 52/99 fold 5: 392s  N20 PLSR + PLSR
+perm 53/99 fold 1: 397s  N18 RF + RF
+perm 53/99 fold 2: 399s  N06 RF + Adaptive_weighted_average
+perm 53/99 fold 3: 401s  N08 RF + Equal_average
+perm 53/99 fold 4: 395s  N05 PLSR + Ridge
+perm 53/99 fold 5: 395s  N10 SVR + RF
+perm 54/99 fold 1: 399s  N06 RF + Adaptive_weighted_average
+perm 54/99 fold 2: 497s  N02 PLSR + RF
+perm 54/99 fold 3: 573s  N17 PLSR + Equal_average
+perm 54/99 fold 4: 575s  N12 PLSR + PLSR
+perm 54/99 fold 5: 572s  N04 SVR + RF
+perm 55/99 fold 1: 570s  N22 PLSR + Ridge
+perm 55/99 fold 2: 573s  N07 PLSR + Adaptive_weighted_average
+perm 55/99 fold 3: 572s  N08 PLSR + Ridge
+perm 55/99 fold 4: 581s  N18 RF + RF
+perm 55/99 fold 5: 576s  N14 SVR + Ridge
+perm 56/99 fold 1: 581s  N24 RF + RF
+perm 56/99 fold 2: 579s  N17 RF + Adaptive_weighted_average
+perm 56/99 fold 3: 579s  N07 RF + Equal_average
+perm 56/99 fold 4: 581s  N03 RF + Equal_average
+perm 56/99 fold 5: 578s  N09 RF + PLSR
+perm 57/99 fold 1: 573s  N24 PLSR + Adaptive_weighted_average
+perm 57/99 fold 2: 576s  N19 PLSR + Adaptive_weighted_average
+perm 57/99 fold 3: 572s  N20 PLSR + RF
+perm 57/99 fold 4: 575s  N02 SVR + PLSR
+perm 57/99 fold 5: 576s  N05 SVR + RF
+perm 58/99 fold 1: 581s  N16 RF + Ridge
+perm 58/99 fold 2: 573s  N18 SVR + PLSR
+perm 58/99 fold 3: 574s  N09 PLSR + Adaptive_weighted_average
+perm 58/99 fold 4: 575s  N12 SVR + RF
+perm 58/99 fold 5: 576s  N04 PLSR + RF
+perm 59/99 fold 1: 582s  N16 RF + Equal_average
+perm 59/99 fold 2: 581s  N07 RF + Ridge
+perm 59/99 fold 3: 573s  N01 PLSR + RF
+perm 59/99 fold 4: 582s  N21 RF + RF
+perm 59/99 fold 5: 576s  N02 SVR + RF
+perm 60/99 fold 1: 573s  N02 PLSR + PLSR
+perm 60/99 fold 2: 573s  N05 SVR + RF
+perm 60/99 fold 3: 573s  N15 PLSR + Ridge
+perm 60/99 fold 4: 580s  N14 RF + Ridge
+perm 60/99 fold 5: 582s  N20 RF + RF
+perm 61/99 fold 1: 582s  N02 RF + RF
+perm 61/99 fold 2: 581s  N17 RF + Adaptive_weighted_average
+perm 61/99 fold 3: 580s  N01 PLSR + PLSR
+perm 61/99 fold 4: 576s  N02 PLSR + PLSR
+perm 61/99 fold 5: 574s  N14 PLSR + RF
+perm 62/99 fold 1: 576s  N12 PLSR + PLSR
+perm 62/99 fold 2: 591s  N06 PLSR + RF
+perm 62/99 fold 3: 589s  N04 SVR + PLSR
+perm 62/99 fold 4: 608s  N17 RF + Equal_average
+perm 62/99 fold 5: 599s  N03 SVR + PLSR
+perm 63/99 fold 1: 594s  N04 PLSR + PLSR
+perm 63/99 fold 2: 594s  N19 SVR + Ridge
+perm 63/99 fold 3: 567s  N21 PLSR + RF
+perm 63/99 fold 4: 580s  N04 RF + RF
+perm 63/99 fold 5: 580s  N01 PLSR + RF
+perm 64/99 fold 1: 577s  N17 PLSR + RF
+perm 64/99 fold 2: 583s  N03 RF + RF
+perm 64/99 fold 3: 580s  N01 SVR + PLSR
+perm 64/99 fold 4: 584s  N05 RF + Adaptive_weighted_average
+perm 64/99 fold 5: 577s  N06 PLSR + RF
+perm 65/99 fold 1: 572s  N20 PLSR + PLSR
+perm 65/99 fold 2: 585s  N01 RF + Equal_average
+perm 65/99 fold 3: 582s  N06 RF + Equal_average
+perm 65/99 fold 4: 579s  N15 PLSR + RF
+perm 65/99 fold 5: 586s  N01 RF + Adaptive_weighted_average
+perm 66/99 fold 1: 577s  N11 PLSR + PLSR
+perm 66/99 fold 2: 583s  N19 RF + RF
+perm 66/99 fold 3: 577s  N10 PLSR + RF
+perm 66/99 fold 4: 585s  N12 RF + PLSR
+perm 66/99 fold 5: 573s  N18 SVR + PLSR
+perm 67/99 fold 1: 578s  N24 PLSR + Equal_average
+perm 67/99 fold 2: 575s  N02 PLSR + RF
+perm 67/99 fold 3: 578s  N24 SVR + RF
+perm 67/99 fold 4: 585s  N21 RF + Adaptive_weighted_average
+perm 67/99 fold 5: 583s  N06 RF + Equal_average
+perm 68/99 fold 1: 583s  N15 RF + PLSR
+perm 68/99 fold 2: 576s  N14 SVR + RF
+perm 68/99 fold 3: 585s  N09 RF + RF
+perm 68/99 fold 4: 579s  N16 PLSR + RF
+perm 68/99 fold 5: 581s  N07 PLSR + Adaptive_weighted_average
+perm 69/99 fold 1: 582s  N19 RF + RF
+perm 69/99 fold 2: 583s  N15 RF + Adaptive_weighted_average
+perm 69/99 fold 3: 578s  N03 PLSR + Ridge
+perm 69/99 fold 4: 579s  N11 PLSR + Ridge
+perm 69/99 fold 5: 582s  N21 RF + Equal_average
+perm 70/99 fold 1: 581s  N02 SVR + RF
+perm 70/99 fold 2: 585s  N04 RF + Adaptive_weighted_average
+perm 70/99 fold 3: 577s  N05 PLSR + Ridge
+perm 70/99 fold 4: 582s  N18 RF + Equal_average
+perm 70/99 fold 5: 578s  N08 PLSR + RF
+perm 71/99 fold 1: 575s  N05 SVR + PLSR
+perm 71/99 fold 2: 578s  N18 SVR + RF
+perm 71/99 fold 3: 587s  N08 RF + Ridge
+perm 71/99 fold 4: 586s  N11 RF + Ridge
+perm 71/99 fold 5: 581s  N03 SVR + RF
+perm 72/99 fold 1: 578s  N09 PLSR + RF
+perm 72/99 fold 2: 582s  N06 SVR + RF
+perm 72/99 fold 3: 579s  N13 SVR + RF
+perm 72/99 fold 4: 589s  N15 RF + Ridge
+perm 72/99 fold 5: 576s  N24 PLSR + Ridge
+perm 73/99 fold 1: 574s  N23 PLSR + RF
+perm 73/99 fold 2: 578s  N11 PLSR + Equal_average
+perm 73/99 fold 3: 579s  N16 SVR + RF
+perm 73/99 fold 4: 579s  N21 PLSR + Equal_average
+perm 73/99 fold 5: 580s  N05 PLSR + Adaptive_weighted_average
+perm 74/99 fold 1: 577s  N01 PLSR + Adaptive_weighted_average
+perm 74/99 fold 2: 577s  N24 SVR + RF
+perm 74/99 fold 3: 586s  N05 RF + Ridge
+perm 74/99 fold 4: 579s  N10 SVR + RF
+perm 74/99 fold 5: 578s  N01 SVR + PLSR
+perm 75/99 fold 1: 587s  N04 RF + Ridge
+perm 75/99 fold 2: 578s  N04 SVR + RF
+perm 75/99 fold 3: 577s  N21 SVR + Ridge
+perm 75/99 fold 4: 583s  N08 RF + Adaptive_weighted_average
+perm 75/99 fold 5: 585s  N23 RF + RF
+perm 76/99 fold 1: 582s  N23 RF + Ridge
+perm 76/99 fold 2: 591s  N07 RF + Ridge
+perm 76/99 fold 3: 585s  N07 RF + Equal_average
+perm 76/99 fold 4: 576s  N16 PLSR + RF
+perm 76/99 fold 5: 584s  N12 RF + RF
+perm 77/99 fold 1: 585s  N12 RF + Adaptive_weighted_average
+perm 77/99 fold 2: 583s  N11 RF + Ridge
+perm 77/99 fold 3: 583s  N16 SVR + RF
+perm 77/99 fold 4: 585s  N23 RF + RF
+perm 77/99 fold 5: 578s  N24 PLSR + RF
+perm 78/99 fold 1: 581s  N11 RF + RF
+perm 78/99 fold 2: 618s  N21 SVR + PLSR
+perm 78/99 fold 3: 567s  N23 SVR + PLSR
+perm 78/99 fold 4: 567s  N03 PLSR + Adaptive_weighted_average
+perm 78/99 fold 5: 568s  N09 SVR + PLSR
+perm 79/99 fold 1: 569s  N02 SVR + RF
+perm 79/99 fold 2: 568s  N03 PLSR + PLSR
+perm 79/99 fold 3: 578s  N24 RF + RF
+perm 79/99 fold 4: 570s  N02 PLSR + RF
+perm 79/99 fold 5: 569s  N18 PLSR + Adaptive_weighted_average
+perm 80/99 fold 1: 568s  N24 SVR + Ridge
+perm 80/99 fold 2: 567s  N07 PLSR + PLSR
+perm 80/99 fold 3: 567s  N12 SVR + PLSR
+perm 80/99 fold 4: 574s  N06 RF + RF
+perm 80/99 fold 5: 567s  N03 SVR + Ridge
+perm 81/99 fold 1: 565s  N01 PLSR + Adaptive_weighted_average
+perm 81/99 fold 2: 570s  N01 SVR + PLSR
+perm 81/99 fold 3: 570s  N05 PLSR + RF
+perm 81/99 fold 4: 575s  N02 RF + Ridge
+perm 81/99 fold 5: 568s  N15 PLSR + RF
+perm 82/99 fold 1: 576s  N09 RF + RF
+perm 82/99 fold 2: 567s  N04 SVR + RF
+perm 82/99 fold 3: 574s  N20 RF + RF
+perm 82/99 fold 4: 576s  N10 RF + Ridge
+perm 82/99 fold 5: 571s  N17 SVR + Ridge
+perm 83/99 fold 1: 569s  N05 PLSR + RF
+perm 83/99 fold 2: 570s  N05 PLSR + PLSR
+perm 83/99 fold 3: 576s  N02 RF + RF
+perm 83/99 fold 4: 570s  N02 SVR + RF
+perm 83/99 fold 5: 578s  N01 RF + Ridge
+perm 84/99 fold 1: 577s  N14 RF + Equal_average
+perm 84/99 fold 2: 569s  N04 SVR + RF
+perm 84/99 fold 3: 572s  N18 SVR + RF
+perm 84/99 fold 4: 569s  N09 PLSR + RF
+perm 84/99 fold 5: 574s  N06 RF + RF
+perm 85/99 fold 1: 567s  N02 SVR + RF
+perm 85/99 fold 2: 577s  N14 RF + Adaptive_weighted_average
+perm 85/99 fold 3: 570s  N15 PLSR + RF
+perm 85/99 fold 4: 567s  N06 SVR + PLSR
+perm 85/99 fold 5: 566s  N11 SVR + PLSR
+perm 86/99 fold 1: 573s  N07 RF + Equal_average
+perm 86/99 fold 2: 567s  N15 SVR + RF
+perm 86/99 fold 3: 569s  N17 PLSR + RF
+perm 86/99 fold 4: 540s  N16 RF + RF
+perm 86/99 fold 5: 352s  N09 RF + Equal_average
+perm 87/99 fold 1: 346s  N02 PLSR + RF
+perm 87/99 fold 2: 343s  N01 PLSR + Adaptive_weighted_average
+perm 87/99 fold 3: 343s  N02 PLSR + Ridge
+perm 87/99 fold 4: 344s  N03 SVR + Ridge
+perm 87/99 fold 5: 348s  N18 RF + PLSR
+perm 88/99 fold 1: 348s  N07 RF + PLSR
+perm 88/99 fold 2: 351s  N23 RF + Ridge
+perm 88/99 fold 3: 433s  N15 RF + RF
+perm 88/99 fold 4: 600s  N10 PLSR + Ridge
+perm 88/99 fold 5: 600s  N01 PLSR + Ridge
+perm 89/99 fold 1: 596s  N03 SVR + Ridge
+perm 89/99 fold 2: 598s  N08 PLSR + RF
+perm 89/99 fold 3: 605s  N09 SVR + Ridge
+perm 89/99 fold 4: 604s  N06 SVR + PLSR
+perm 89/99 fold 5: 602s  N21 PLSR + PLSR
+perm 90/99 fold 1: 611s  N18 RF + RF
+perm 90/99 fold 2: 603s  N02 PLSR + RF
+perm 90/99 fold 3: 602s  N12 SVR + RF
+perm 90/99 fold 4: 613s  N01 RF + Equal_average
+perm 90/99 fold 5: 605s  N22 PLSR + Adaptive_weighted_average
+perm 91/99 fold 1: 606s  N10 RF + Adaptive_weighted_average
+perm 91/99 fold 2: 607s  N24 RF + Equal_average
+perm 91/99 fold 3: 601s  N17 PLSR + Adaptive_weighted_average
+perm 91/99 fold 4: 602s  N01 PLSR + RF
+perm 91/99 fold 5: 605s  N02 PLSR + Equal_average
+perm 92/99 fold 1: 605s  N04 SVR + RF
+perm 92/99 fold 2: 602s  N17 SVR + PLSR
+perm 92/99 fold 3: 611s  N21 RF + RF
+perm 92/99 fold 4: 612s  N03 RF + Adaptive_weighted_average
+perm 92/99 fold 5: 604s  N13 PLSR + Adaptive_weighted_average
+perm 93/99 fold 1: 603s  N24 SVR + RF
+perm 93/99 fold 2: 605s  N13 SVR + RF
+perm 93/99 fold 3: 604s  N10 PLSR + Adaptive_weighted_average
+perm 93/99 fold 4: 603s  N19 PLSR + Ridge
+perm 93/99 fold 5: 605s  N05 PLSR + PLSR
+perm 94/99 fold 1: 604s  N01 SVR + Ridge
+perm 94/99 fold 2: 612s  N07 RF + RF
+perm 94/99 fold 3: 612s  N24 RF + Equal_average
+perm 94/99 fold 4: 602s  N22 PLSR + RF
+perm 94/99 fold 5: 601s  N04 PLSR + Ridge
+perm 95/99 fold 1: 606s  N08 PLSR + Ridge
+perm 95/99 fold 2: 611s  N05 RF + Equal_average
+perm 95/99 fold 3: 614s  N02 RF + Equal_average
+perm 95/99 fold 4: 615s  N12 RF + Equal_average
+perm 95/99 fold 5: 609s  N13 RF + PLSR
+perm 96/99 fold 1: 586s  N05 PLSR + Adaptive_weighted_average
+perm 96/99 fold 2: 414s  N05 RF + Equal_average
+perm 96/99 fold 3: 354s  N02 PLSR + Equal_average
+perm 96/99 fold 4: 406s  N13 SVR + Ridge
+perm 96/99 fold 5: 460s  N05 RF + PLSR
+perm 97/99 fold 1: 604s  N02 PLSR + Equal_average
+perm 97/99 fold 2: 606s  N17 RF + Ridge
+perm 97/99 fold 3: 602s  N02 PLSR + Ridge
+perm 97/99 fold 4: 610s  N07 RF + RF
+perm 97/99 fold 5: 601s  N18 PLSR + Ridge
+perm 98/99 fold 1: 604s  N02 SVR + Ridge
+perm 98/99 fold 2: 430s  N01 SVR + PLSR
+perm 98/99 fold 3: 400s  N19 PLSR + Adaptive_weighted_average
+perm 98/99 fold 4: 402s  N09 PLSR + PLSR
+perm 98/99 fold 5: 405s  N08 RF + Equal_average
+perm 99/99 fold 1: 406s  N18 RF + Equal_average
+perm 99/99 fold 2: 407s  N04 RF + Equal_average
+perm 99/99 fold 3: 409s  N09 RF + RF
+perm 99/99 fold 4: 408s  N07 RF + RF
+perm 99/99 fold 5: 408s  N03 RF + Equal_average
+{
+  "permutation": {
+    "n_completed": 99,
+    "n_planned": 99,
+    "observed_RMSE": 3.450644889201281,
+    "null_RMSE_min": 17.490264908702358,
+    "null_RMSE_median": 18.86588214411228,
+    "null_R2_max": 0.06994601800562095,
+    "p_value": 0.01
+  }
+}
+=== bootstrap 2026-11-14 04:15:43
+boot 1/100 fusion_stack: 403s  oob parents 9  RMSE 8.69
+boot 1/100 nir_stack: 331s  oob parents 9  RMSE 5.75
+boot 2/100 fusion_stack: 400s  oob parents 7  RMSE 3.42
+boot 2/100 nir_stack: 332s  oob parents 7  RMSE 6.40
+boot 3/100 fusion_stack: 397s  oob parents 8  RMSE 2.96
+boot 3/100 nir_stack: 331s  oob parents 8  RMSE 3.65
+boot 4/100 fusion_stack: 396s  oob parents 7  RMSE 3.81
+boot 4/100 nir_stack: 333s  oob parents 7  RMSE 4.86
+boot 5/100 fusion_stack: 398s  oob parents 5  RMSE 4.02
+boot 5/100 nir_stack: 331s  oob parents 5  RMSE 4.71
+boot 6/100 fusion_stack: 398s  oob parents 7  RMSE 2.20
+boot 6/100 nir_stack: 329s  oob parents 7  RMSE 2.42
+boot 7/100 fusion_stack: 403s  oob parents 8  RMSE 3.60
+boot 7/100 nir_stack: 332s  oob parents 8  RMSE 1.81
+boot 8/100 fusion_stack: 398s  oob parents 8  RMSE 4.29
+boot 8/100 nir_stack: 332s  oob parents 8  RMSE 3.83
+boot 9/100 fusion_stack: 475s  oob parents 9  RMSE 5.08
+boot 9/100 nir_stack: 305s  oob parents 9  RMSE 5.13
+boot 10/100 fusion_stack: 385s  oob parents 6  RMSE 3.84
+boot 10/100 nir_stack: 327s  oob parents 6  RMSE 6.09
+boot 11/100 fusion_stack: 401s  oob parents 6  RMSE 3.69
+boot 11/100 nir_stack: 304s  oob parents 6  RMSE 3.33
+boot 12/100 fusion_stack: 379s  oob parents 6  RMSE 3.29
+boot 12/100 nir_stack: 342s  oob parents 6  RMSE 3.58
+boot 13/100 fusion_stack: 398s  oob parents 9  RMSE 4.60
+boot 13/100 nir_stack: 328s  oob parents 9  RMSE 4.31
+boot 14/100 fusion_stack: 395s  oob parents 7  RMSE 4.27
+boot 14/100 nir_stack: 329s  oob parents 7  RMSE 2.17
+boot 15/100 fusion_stack: 399s  oob parents 11  RMSE 4.23
+boot 15/100 nir_stack: 329s  oob parents 11  RMSE 4.38
+boot 16/100 fusion_stack: 394s  oob parents 9  RMSE 3.62
+boot 16/100 nir_stack: 326s  oob parents 9  RMSE 3.70
+boot 17/100 fusion_stack: 396s  oob parents 6  RMSE 3.53
+boot 17/100 nir_stack: 327s  oob parents 6  RMSE 3.47
+boot 18/100 fusion_stack: 393s  oob parents 9  RMSE 4.90
+boot 18/100 nir_stack: 328s  oob parents 9  RMSE 7.16
+boot 19/100 fusion_stack: 395s  oob parents 6  RMSE 2.65
+boot 19/100 nir_stack: 327s  oob parents 6  RMSE 3.17
+boot 20/100 fusion_stack: 393s  oob parents 7  RMSE 4.30
+boot 20/100 nir_stack: 327s  oob parents 7  RMSE 7.45
+boot 21/100 fusion_stack: 394s  oob parents 6  RMSE 3.74
+boot 21/100 nir_stack: 327s  oob parents 6  RMSE 2.45
+boot 22/100 fusion_stack: 397s  oob parents 7  RMSE 4.45
+boot 22/100 nir_stack: 327s  oob parents 7  RMSE 6.04
+boot 23/100 fusion_stack: 393s  oob parents 7  RMSE 3.41
+boot 23/100 nir_stack: 327s  oob parents 7  RMSE 3.18
+boot 24/100 fusion_stack: 394s  oob parents 5  RMSE 2.90
+boot 24/100 nir_stack: 327s  oob parents 5  RMSE 2.57
+boot 25/100 fusion_stack: 394s  oob parents 6  RMSE 2.80
+boot 25/100 nir_stack: 328s  oob parents 6  RMSE 2.35
+boot 26/100 fusion_stack: 393s  oob parents 9  RMSE 3.60
+boot 26/100 nir_stack: 326s  oob parents 9  RMSE 4.30
+boot 27/100 fusion_stack: 396s  oob parents 7  RMSE 3.53
+boot 27/100 nir_stack: 327s  oob parents 7  RMSE 3.02
+boot 28/100 fusion_stack: 393s  oob parents 6  RMSE 3.42
+boot 28/100 nir_stack: 327s  oob parents 6  RMSE 3.87
+boot 29/100 fusion_stack: 395s  oob parents 5  RMSE 2.96
+boot 29/100 nir_stack: 328s  oob parents 5  RMSE 3.20
+boot 30/100 fusion_stack: 396s  oob parents 7  RMSE 3.21
+boot 30/100 nir_stack: 328s  oob parents 7  RMSE 3.59
+boot 31/100 fusion_stack: 393s  oob parents 8  RMSE 3.69
+boot 31/100 nir_stack: 328s  oob parents 8  RMSE 4.09
+boot 32/100 fusion_stack: 396s  oob parents 8  RMSE 3.42
+boot 32/100 nir_stack: 326s  oob parents 8  RMSE 3.88
+boot 33/100 fusion_stack: 393s  oob parents 8  RMSE 4.16
+boot 33/100 nir_stack: 329s  oob parents 8  RMSE 4.58
+boot 34/100 fusion_stack: 397s  oob parents 8  RMSE 2.25
+boot 34/100 nir_stack: 327s  oob parents 8  RMSE 2.29
+boot 35/100 fusion_stack: 394s  oob parents 9  RMSE 2.74
+boot 35/100 nir_stack: 328s  oob parents 9  RMSE 4.06
+boot 36/100 fusion_stack: 393s  oob parents 7  RMSE 3.90
+boot 36/100 nir_stack: 329s  oob parents 7  RMSE 5.33
+boot 37/100 fusion_stack: 395s  oob parents 7  RMSE 3.20
+boot 37/100 nir_stack: 329s  oob parents 7  RMSE 2.89
+boot 38/100 fusion_stack: 396s  oob parents 8  RMSE 4.21
+boot 38/100 nir_stack: 329s  oob parents 8  RMSE 4.35
+boot 39/100 fusion_stack: 396s  oob parents 8  RMSE 3.11
+boot 39/100 nir_stack: 327s  oob parents 8  RMSE 3.32
+boot 40/100 fusion_stack: 396s  oob parents 7  RMSE 4.15
+boot 40/100 nir_stack: 326s  oob parents 7  RMSE 4.07
+boot 41/100 fusion_stack: 394s  oob parents 8  RMSE 2.66
+boot 41/100 nir_stack: 329s  oob parents 8  RMSE 3.28
+boot 42/100 fusion_stack: 398s  oob parents 10  RMSE 5.41
+boot 42/100 nir_stack: 334s  oob parents 10  RMSE 3.67
+boot 43/100 fusion_stack: 403s  oob parents 8  RMSE 2.89
+boot 43/100 nir_stack: 335s  oob parents 8  RMSE 2.66
+boot 44/100 fusion_stack: 406s  oob parents 7  RMSE 5.04
+boot 44/100 nir_stack: 338s  oob parents 7  RMSE 5.26
+boot 45/100 fusion_stack: 404s  oob parents 7  RMSE 5.55
+boot 45/100 nir_stack: 335s  oob parents 7  RMSE 5.71
+boot 46/100 fusion_stack: 408s  oob parents 7  RMSE 7.93
+boot 46/100 nir_stack: 336s  oob parents 7  RMSE 3.56
+boot 47/100 fusion_stack: 402s  oob parents 8  RMSE 3.59
+boot 47/100 nir_stack: 334s  oob parents 8  RMSE 4.13
+boot 48/100 fusion_stack: 404s  oob parents 10  RMSE 3.90
+boot 48/100 nir_stack: 336s  oob parents 10  RMSE 4.84
+boot 49/100 fusion_stack: 405s  oob parents 10  RMSE 4.28
+boot 49/100 nir_stack: 337s  oob parents 10  RMSE 6.24
+boot 50/100 fusion_stack: 402s  oob parents 8  RMSE 3.14
+boot 50/100 nir_stack: 334s  oob parents 8  RMSE 3.26
+boot 51/100 fusion_stack: 404s  oob parents 8  RMSE 3.56
+boot 51/100 nir_stack: 336s  oob parents 8  RMSE 3.24
+boot 52/100 fusion_stack: 403s  oob parents 8  RMSE 4.26
+boot 52/100 nir_stack: 334s  oob parents 8  RMSE 5.64
+boot 53/100 fusion_stack: 403s  oob parents 8  RMSE 3.43
+boot 53/100 nir_stack: 334s  oob parents 8  RMSE 5.25
+boot 54/100 fusion_stack: 407s  oob parents 7  RMSE 3.20
+boot 54/100 nir_stack: 334s  oob parents 7  RMSE 3.53
+boot 55/100 fusion_stack: 402s  oob parents 10  RMSE 3.90
+boot 55/100 nir_stack: 334s  oob parents 10  RMSE 4.07
+boot 56/100 fusion_stack: 401s  oob parents 7  RMSE 3.03
+boot 56/100 nir_stack: 341s  oob parents 7  RMSE 1.85
+boot 57/100 fusion_stack: 404s  oob parents 10  RMSE 5.01
+boot 57/100 nir_stack: 337s  oob parents 10  RMSE 3.61
+boot 58/100 fusion_stack: 412s  oob parents 10  RMSE 4.80
+boot 58/100 nir_stack: 338s  oob parents 10  RMSE 5.15
+boot 59/100 fusion_stack: 406s  oob parents 8  RMSE 3.09
+boot 59/100 nir_stack: 336s  oob parents 8  RMSE 3.55
+boot 60/100 fusion_stack: 403s  oob parents 5  RMSE 4.92
+boot 60/100 nir_stack: 334s  oob parents 5  RMSE 5.22
+boot 61/100 fusion_stack: 407s  oob parents 7  RMSE 3.05
+boot 61/100 nir_stack: 336s  oob parents 7  RMSE 3.97
+boot 62/100 fusion_stack: 408s  oob parents 10  RMSE 3.31
+boot 62/100 nir_stack: 335s  oob parents 10  RMSE 2.16
+boot 63/100 fusion_stack: 406s  oob parents 6  RMSE 2.82
+boot 63/100 nir_stack: 339s  oob parents 6  RMSE 3.38
+boot 64/100 fusion_stack: 404s  oob parents 6  RMSE 2.77
+boot 64/100 nir_stack: 333s  oob parents 6  RMSE 2.58
+boot 65/100 fusion_stack: 406s  oob parents 8  RMSE 5.32
+boot 65/100 nir_stack: 338s  oob parents 8  RMSE 6.67
+boot 66/100 fusion_stack: 403s  oob parents 7  RMSE 4.10
+boot 66/100 nir_stack: 334s  oob parents 7  RMSE 3.87
+boot 67/100 fusion_stack: 403s  oob parents 8  RMSE 3.43
+boot 67/100 nir_stack: 335s  oob parents 8  RMSE 3.41
+boot 68/100 fusion_stack: 401s  oob parents 8  RMSE 1.71
+boot 68/100 nir_stack: 338s  oob parents 8  RMSE 3.15
+boot 69/100 fusion_stack: 404s  oob parents 6  RMSE 3.73
+boot 69/100 nir_stack: 334s  oob parents 6  RMSE 3.51
+boot 70/100 fusion_stack: 403s  oob parents 7  RMSE 3.74
+boot 70/100 nir_stack: 332s  oob parents 7  RMSE 4.07
+boot 71/100 fusion_stack: 404s  oob parents 7  RMSE 3.98
+boot 71/100 nir_stack: 336s  oob parents 7  RMSE 4.51
+boot 72/100 fusion_stack: 404s  oob parents 9  RMSE 3.16
+boot 72/100 nir_stack: 336s  oob parents 9  RMSE 4.30
+boot 73/100 fusion_stack: 403s  oob parents 9  RMSE 3.26
+boot 73/100 nir_stack: 337s  oob parents 9  RMSE 3.41
+boot 74/100 fusion_stack: 401s  oob parents 9  RMSE 5.67
+boot 74/100 nir_stack: 333s  oob parents 9  RMSE 5.14
+boot 75/100 fusion_stack: 354s  oob parents 8  RMSE 3.87
+boot 75/100 nir_stack: 328s  oob parents 8  RMSE 3.50
+boot 76/100 fusion_stack: 471s  oob parents 10  RMSE 3.93
+boot 76/100 nir_stack: 494s  oob parents 10  RMSE 3.99
+boot 77/100 fusion_stack: 600s  oob parents 7  RMSE 4.07
+boot 77/100 nir_stack: 498s  oob parents 7  RMSE 4.38
+boot 78/100 fusion_stack: 596s  oob parents 9  RMSE 2.18
+boot 78/100 nir_stack: 491s  oob parents 9  RMSE 3.75
+boot 79/100 fusion_stack: 593s  oob parents 7  RMSE 4.27
+boot 79/100 nir_stack: 488s  oob parents 7  RMSE 4.78
+boot 80/100 fusion_stack: 576s  oob parents 10  RMSE 5.24
+boot 80/100 nir_stack: 483s  oob parents 10  RMSE 5.73
+boot 81/100 fusion_stack: 506s  oob parents 7  RMSE 2.55
+boot 81/100 nir_stack: 272s  oob parents 7  RMSE 2.42
+boot 82/100 fusion_stack: 327s  oob parents 10  RMSE 3.44
+boot 82/100 nir_stack: 268s  oob parents 10  RMSE 2.93
+boot 83/100 fusion_stack: 321s  oob parents 8  RMSE 3.30
+boot 83/100 nir_stack: 273s  oob parents 8  RMSE 4.10
+boot 84/100 fusion_stack: 321s  oob parents 12  RMSE 2.64
+boot 84/100 nir_stack: 264s  oob parents 12  RMSE 2.88
+boot 85/100 fusion_stack: 319s  oob parents 8  RMSE 1.92
+boot 85/100 nir_stack: 266s  oob parents 8  RMSE 1.83
+boot 86/100 fusion_stack: 322s  oob parents 7  RMSE 4.83
+boot 86/100 nir_stack: 265s  oob parents 7  RMSE 8.00
+boot 87/100 fusion_stack: 321s  oob parents 9  RMSE 3.37
+boot 87/100 nir_stack: 266s  oob parents 9  RMSE 3.69
+boot 88/100 fusion_stack: 318s  oob parents 9  RMSE 3.65
+boot 88/100 nir_stack: 269s  oob parents 9  RMSE 4.62
+boot 89/100 fusion_stack: 319s  oob parents 11  RMSE 3.55
+boot 89/100 nir_stack: 267s  oob parents 11  RMSE 4.73
+boot 90/100 fusion_stack: 320s  oob parents 8  RMSE 4.34
+boot 90/100 nir_stack: 266s  oob parents 8  RMSE 5.31
+boot 91/100 fusion_stack: 320s  oob parents 9  RMSE 2.97
+boot 91/100 nir_stack: 269s  oob parents 9  RMSE 2.62
+boot 92/100 fusion_stack: 321s  oob parents 8  RMSE 5.15
+boot 92/100 nir_stack: 264s  oob parents 8  RMSE 5.52
+boot 93/100 fusion_stack: 327s  oob parents 8  RMSE 6.22
+boot 93/100 nir_stack: 277s  oob parents 8  RMSE 3.26
+boot 94/100 fusion_stack: 532s  oob parents 8  RMSE 4.72
+boot 94/100 nir_stack: 455s  oob parents 8  RMSE 6.65
+boot 95/100 fusion_stack: 551s  oob parents 12  RMSE 4.81
+boot 95/100 nir_stack: 457s  oob parents 12  RMSE 4.72
+boot 96/100 fusion_stack: 560s  oob parents 5  RMSE 3.37
+boot 96/100 nir_stack: 418s  oob parents 5  RMSE 3.30
+boot 97/100 fusion_stack: 450s  oob parents 5  RMSE 3.35
+boot 97/100 nir_stack: 450s  oob parents 5  RMSE 0.85
+boot 98/100 fusion_stack: 566s  oob parents 11  RMSE 3.55
+boot 98/100 nir_stack: 585s  oob parents 11  RMSE 2.79
+boot 99/100 fusion_stack: 695s  oob parents 7  RMSE 3.41
+boot 99/100 nir_stack: 577s  oob parents 7  RMSE 3.21
+boot 100/100 fusion_stack: 694s  oob parents 8  RMSE 2.31
+boot 100/100 nir_stack: 575s  oob parents 8  RMSE 2.28
+{
+  "permutation": {
+    "n_completed": 99,
+    "n_planned": 99,
+    "observed_RMSE": 3.450644889201281,
+    "null_RMSE_min": 17.490264908702358,
+    "null_RMSE_median": 18.86588214411228,
+    "null_R2_max": 0.06994601800562095,
+    "p_value": 0.01
+  },
+  "bootstrap": {
+    "n_completed": 100,
+    "n_planned": 100,
+    "fusion_stack": {
+      "median": 3.6021449917569006,
+      "p2.5": 2.1909051017316807,
+      "p97.5": 5.960167787576653,
+      "pooled_oob_RMSE": 3.9887061026902724
+    },
+    "nir_stack": {
+      "median": 3.793446079699687,
+      "p2.5": 1.8406818753394028,
+      "p97.5": 6.927905532957626,
+      "pooled_oob_RMSE": 4.242213700621391
+    },
+    "difference": {
+      "median": -0.22690455098643247,
+      "p2.5": -2.6438265777450916,
+      "p97.5": 2.7321905990886464
+    },
+    "share_fusion_lower": 0.62
+  }
+}
+=== ALL DONE 2026-11-15 01:14:17

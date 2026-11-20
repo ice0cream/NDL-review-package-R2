@@ -1,0 +1,54 @@
+{
+ "n": 58,
+ "r_single_test_5pct_all": 0.26,
+ "r_single_test_5pct_within": 0.27,
+ "max_abs_r": {
+  "r_SNV_all": {
+   "r": 0.83,
+   "wavenumber": 4370,
+   "share_above_limit_percent": 84
+  },
+  "r_SNV_within_category": {
+   "r": 0.82,
+   "wavenumber": 5071,
+   "share_above_limit_percent": 67
+  },
+  "r_SNV_2nd_derivative_all": {
+   "r": 0.79,
+   "wavenumber": 4964,
+   "share_above_limit_percent": 29
+  },
+  "r_SNV_2nd_derivative_within_category": {
+   "r": 0.76,
+   "wavenumber": 4902,
+   "share_above_limit_percent": 22
+  }
+ },
+ "water_bands": {
+  "combination": {
+   "r_SNV_all": 0.64,
+   "r_SNV_within": 0.82,
+   "r_D2_all": -0.79,
+   "r_D2_within": -0.72
+  },
+  "overtone": {
+   "r_SNV_all": 0.54,
+   "r_SNV_within": 0.56,
+   "r_D2_all": -0.49,
+   "r_D2_within": 0.3
+  }
+ },
+ "plsr": {
+  "R2": 0.749,
+  "R2_sd": 0.04,
+  "RMSE": 0.24,
+  "R2_category_mean": 0.443,
+  "RMSE_category_mean": 0.35,
+  "R2_within_category": 0.46
+ },
+ "lda_moisture_only": {
+  "accuracy_percent": 51.1,
+  "sd_percent": 2.9,
+  "majority_class_percent": 37.9
+ }
+}

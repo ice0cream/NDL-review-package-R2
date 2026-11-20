@@ -1,0 +1,104 @@
+{
+ "moisture": {
+  "FTR": {
+   "n": 22,
+   "mean": 8.03,
+   "sd": 0.27,
+   "min": 7.36,
+   "max": 8.47
+  },
+  "WTR": {
+   "n": 12,
+   "mean": 7.2,
+   "sd": 0.44,
+   "min": 6.52,
+   "max": 7.87
+  },
+  "AST": {
+   "n": 12,
+   "mean": 7.35,
+   "sd": 0.42,
+   "min": 6.72,
+   "max": 8.04
+  },
+  "SFTR": {
+   "n": 12,
+   "mean": 7.79,
+   "sd": 0.2,
+   "min": 7.54,
+   "max": 8.19
+  },
+  "All": {
+   "n": 58,
+   "mean": 7.67,
+   "sd": 0.48,
+   "min": 6.52,
+   "max": 8.47
+  }
+ },
+ "kruskal_H": 29.89,
+ "kruskal_p": 1.4560676252537473e-06,
+ "factor_min": 1.07,
+ "factor_max": 1.093,
+ "values": {
+  "TFC": {
+   "pearson_as_is_vs_dry": 1.0,
+   "rho_within": -0.08,
+   "p_within": 0.56
+  },
+  "TPC": {
+   "pearson_as_is_vs_dry": 0.9999,
+   "rho_within": -0.1,
+   "p_within": 0.46
+  },
+  "TSS": {
+   "pearson_as_is_vs_dry": 0.9999,
+   "rho_within": -0.17,
+   "p_within": 0.19
+  }
+ },
+ "plsr": {
+  "TFC_asis": {
+   "R2": 0.734,
+   "R2_sd": 0.034,
+   "rel_RMSE": 50.9,
+   "R2_cat": 0.845,
+   "R2_within": -1.04
+  },
+  "TFC_dry": {
+   "R2": 0.736,
+   "R2_sd": 0.034,
+   "rel_RMSE": 50.8,
+   "R2_cat": 0.846,
+   "R2_within": -1.04
+  },
+  "TPC_asis": {
+   "R2": 0.864,
+   "R2_sd": 0.024,
+   "rel_RMSE": 16.6,
+   "R2_cat": 0.877,
+   "R2_within": -0.35
+  },
+  "TPC_dry": {
+   "R2": 0.864,
+   "R2_sd": 0.024,
+   "rel_RMSE": 16.5,
+   "R2_cat": 0.875,
+   "R2_within": -0.33
+  },
+  "TSS_asis": {
+   "R2": 0.851,
+   "R2_sd": 0.019,
+   "rel_RMSE": 14.6,
+   "R2_cat": 0.882,
+   "R2_within": -0.45
+  },
+  "TSS_dry": {
+   "R2": 0.851,
+   "R2_sd": 0.021,
+   "rel_RMSE": 14.8,
+   "R2_cat": 0.886,
+   "R2_within": -0.5
+  }
+ }
+}

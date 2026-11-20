@@ -1,0 +1,80 @@
+  Category   n  mean    sd   min   max
+0      FTR  22  8.03  0.27  7.36  8.47
+1      WTR  12  7.20  0.44  6.52  7.87
+2      AST  12  7.35  0.42  6.72  8.04
+3     SFTR  12  7.79  0.20  7.54  8.19
+4      All  58  7.67  0.48  6.52  8.47
+Kruskal-Wallis H = 29.89, p = 1.5e-06
+                                                   0         1        2
+Target                                           TFC       TPC      TSS
+pearson_as_is_vs_dry                             1.0       1.0      1.0
+spearman_moisture_vs_value                    -0.408    -0.389    0.498
+p                                              0.001     0.003      0.0
+spearman_moisture_vs_value_within_category    -0.078    -0.098   -0.174
+p_within                                        0.56     0.462    0.191
+mean_as_is_FTR                               689.805  1805.195  108.981
+mean_dry_FTR                                 750.038  1962.652  118.489
+mean_as_is_WTR                              1116.905  1948.611   61.649
+mean_dry_WTR                                1203.197  2099.348   66.412
+mean_as_is_AST                              1190.238  4753.651   42.767
+mean_dry_AST                                1285.028  5132.014   46.156
+mean_as_is_SFTR                             4884.167  2907.341   59.927
+mean_dry_SFTR                               5294.362  3152.525   64.986
+factor range: 1.070-1.093
+Outer repeat 01/10 fold 1/5 completed (19.1s)
+Outer repeat 02/10 fold 1/5 completed (19.1s)
+Outer repeat 01/10 fold 2/5 completed (19.1s)
+Outer repeat 01/10 fold 3/5 completed (19.3s)
+Outer repeat 01/10 fold 4/5 completed (19.3s)
+Outer repeat 01/10 fold 5/5 completed (19.4s)
+Outer repeat 02/10 fold 3/5 completed (19.1s)
+Outer repeat 02/10 fold 2/5 completed (19.2s)
+Outer repeat 02/10 fold 4/5 completed (19.2s)
+Outer repeat 03/10 fold 1/5 completed (19.2s)
+Outer repeat 03/10 fold 2/5 completed (19.3s)
+Outer repeat 02/10 fold 5/5 completed (19.4s)
+Outer repeat 03/10 fold 3/5 completed (19.1s)
+Outer repeat 03/10 fold 4/5 completed (19.2s)
+Outer repeat 03/10 fold 5/5 completed (19.3s)
+Outer repeat 04/10 fold 2/5 completed (19.1s)
+Outer repeat 04/10 fold 1/5 completed (19.2s)
+Outer repeat 04/10 fold 3/5 completed (19.2s)
+Outer repeat 04/10 fold 4/5 completed (19.6s)
+Outer repeat 04/10 fold 5/5 completed (19.5s)
+Outer repeat 05/10 fold 1/5 completed (19.5s)
+Outer repeat 05/10 fold 2/5 completed (19.5s)
+Outer repeat 05/10 fold 3/5 completed (19.6s)
+Outer repeat 05/10 fold 4/5 completed (19.7s)
+Outer repeat 05/10 fold 5/5 completed (19.3s)
+Outer repeat 06/10 fold 1/5 completed (19.3s)
+Outer repeat 06/10 fold 3/5 completed (19.3s)
+Outer repeat 06/10 fold 2/5 completed (19.4s)
+Outer repeat 06/10 fold 4/5 completed (19.3s)
+Outer repeat 06/10 fold 5/5 completed (19.4s)
+Outer repeat 07/10 fold 1/5 completed (18.9s)
+Outer repeat 07/10 fold 2/5 completed (19.0s)
+Outer repeat 07/10 fold 3/5 completed (19.0s)
+Outer repeat 07/10 fold 4/5 completed (19.1s)
+Outer repeat 07/10 fold 5/5 completed (19.0s)
+Outer repeat 08/10 fold 1/5 completed (19.1s)
+Outer repeat 08/10 fold 2/5 completed (20.1s)
+Outer repeat 08/10 fold 3/5 completed (20.0s)
+Outer repeat 08/10 fold 4/5 completed (20.2s)
+Outer repeat 09/10 fold 1/5 completed (20.1s)
+Outer repeat 08/10 fold 5/5 completed (20.2s)
+Outer repeat 09/10 fold 2/5 completed (20.1s)
+Outer repeat 09/10 fold 4/5 completed (19.5s)
+Outer repeat 09/10 fold 3/5 completed (19.6s)
+Outer repeat 10/10 fold 1/5 completed (19.5s)
+Outer repeat 09/10 fold 5/5 completed (19.6s)
+Outer repeat 10/10 fold 2/5 completed (19.5s)
+Outer repeat 10/10 fold 3/5 completed (19.4s)
+Outer repeat 10/10 fold 4/5 completed (6.0s)
+Outer repeat 10/10 fold 5/5 completed (6.0s)
+  Target        basis     R2  R2_sd     RMSE  relative_RMSE_percent  R2_category_mean  R2_within_category
+0    TFC  as analysed  0.734  0.034  890.309                 50.889             0.845              -1.043
+1    TFC   dry matter  0.736  0.034  961.918                 50.769             0.846              -1.043
+2    TPC  as analysed  0.864  0.024  442.922                 16.571             0.877              -0.353
+3    TPC   dry matter  0.864  0.024  476.598                 16.475             0.875              -0.330
+4    TSS  as analysed  0.851  0.019   11.031                 14.642             0.882              -0.455
+5    TSS   dry matter  0.851  0.021   12.063                 14.769             0.886              -0.502

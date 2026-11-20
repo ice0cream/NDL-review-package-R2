@@ -1,0 +1,23 @@
+{
+  "variant": "nir_full",
+  "task": "quantitative_positive83",
+  "config": {
+    "outer_folds": 5,
+    "inner_folds": 3,
+    "stack_folds": 3,
+    "repeats": 10,
+    "trees": 200,
+    "bootstrap": 2000,
+    "workers": 12,
+    "band_mode": "train_selected",
+    "band_width": 200.0,
+    "band_step": 100.0,
+    "seed": 2026,
+    "smoke": false
+  },
+  "input": ".\\adulteration\\repeated_experiment_R2_20261104\\primary_pipeline\\inputs\\NIR_color_merged_dataset_redo110.csv",
+  "group_source": ".\\adulteration\\repeated_experiment_R2_20261104\\primary_pipeline\\inputs\\parent_map_redo.csv",
+  "outer_plan": "random grouped partitions, seeds 2026+repeat*10000",
+  "core_script": ".\\adulteration\\NIR-CLO\\R1_primary_analysis_20260911\\code\\decision_nested_83.py",
+  "started": "2026-11-09T21:26:12"
+}
